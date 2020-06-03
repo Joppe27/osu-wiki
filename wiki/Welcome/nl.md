@@ -24,7 +24,7 @@ Welkom bij osu!, een free-to-win ritmespel ontwikkeld door peppy met vier spelmo
 
 *Hoofpagina: [Beatmappen](/wiki/Beatmapping)*
 
-Beatmappen is het creëren van een beatmap door een gebruiker. Dit proces omvat: muziek selecteren, timen en de beatmap mappen en testen. Ook een video, [storyboard](https://github.com/ppy/osu-wiki/tree/master/wiki/Storyboarding) of [gepersonaliseerde skin](https://github.com/ppy/osu-wiki/tree/master/wiki/Skinning) toevoegen kan behoren tot het beatmappen. Dit alles kan gedaan worden door de maker alleen, of samen met andere gebruikers die soms ook *storyboarders*, *skinners* en/of *guest creators* genoemd worden, afhankelijk van wat ze precies doen.
+Beatmappen is het creëren van een beatmap door een gebruiker. Dit proces omvat: muziek selecteren, timen en de beatmap mappen en testen. Ook een video, [storyboard](/wiki/Storyboarding) of [gepersonaliseerde skin](/wiki/Skinning) toevoegen kan behoren tot het beatmappen. Dit alles kan gedaan worden door de maker alleen, of samen met andere gebruikers die soms ook *storyboarders*, *skinners* en/of *guest creators* genoemd worden, afhankelijk van wat ze precies doen.
 
 ## Modden
 

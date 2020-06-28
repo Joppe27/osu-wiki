@@ -33,11 +33,8 @@ Omdat osu! wordt gedreven door de community, werd het osu! cookie logo ontworpen
 ![](img/restrictions-good-single.png)
 
 - Het cookie moet altijd scherp zijn.
-
 - Je mag eenderwelke kleur gebruiken voor het cookie.
-
 - Je mag een lineare kleurengradiënt gebruiken. Radiale gradiënten zijn niet aanbevolen aangezien het middelste element en de ring dan in totaal verschillende kleuren kunnen worden weergegeven.
-
 - Je mag een illustratie maskeren om als kleur voor het cookie te gebruiken, maar er moet wel altijd een goed contrast met de achtergrond behouden worden. 
 
 ---
@@ -68,10 +65,9 @@ Omdat osu! wordt gedreven door de community, werd het osu! cookie logo ontworpen
 
 - Denk er zelfs nog **niet** eens aan om het tekstelement <!-- what does "element" mean in this context? translation might be wrong (too vague for reader: translated as text element)--> te veranderen. Komaan, dat is niet eens ons logo maar gewoon wat tekst in een cirkel.
 
-  
-  ### Beperkingen op cookie-gebruik in volledige kleuren
-  
-  Omdat osu! wordt gedreven door de community, werd het osu! cookie logo ontworpen om simpel en flexibel te zijn; het kan makkelijk aangepast worden aan verschillende ontwerpen. Gebruik dit logo zoals het is, zonder enige aanpassing. Alle beperkingen op het cookie-gebruik in enkele kleur zijn hier ook van toepassing.
+### Beperkingen op cookie-gebruik in volledige kleuren
+
+Omdat osu! wordt gedreven door de community, werd het osu! cookie logo ontworpen om simpel en flexibel te zijn; het kan makkelijk aangepast worden aan verschillende ontwerpen. Gebruik dit logo zoals het is, zonder enige aanpassing. Alle beperkingen op het cookie-gebruik in enkele kleur zijn hier ook van toepassing.
   ![](img/restrictions-bad-full.png)
   
 - Gebruik het oude cookie **niet**.

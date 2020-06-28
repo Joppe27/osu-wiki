@@ -42,27 +42,16 @@ Omdat osu! wordt gedreven door de community, werd het osu! cookie logo ontworpen
 ![](img/restrictions-bad-single.png)
 
 - Verander de beeldverhouding van het cookie **niet**.
-
 - Draai het cookie **niet**. Het cookie moet in overeenstemming zijn met het midden in het oog van de lezer.
-
 - Verander **geen enkel** element van het cookie in iets anders.
-
 - Verwijder **geen enkel** element van het cookie.
-
 - Verander de grootte van individuele elementen van het cookie **niet**.
-
 - Wijzig **geen enkel** element van het cookie.
-
 - Herschik **geen enkel** element van het cookie.
-
 - Het cookie moet ten allen tijde scherp zijn. Als het onscherpe logo deel uitmaakt van een illustratie, plaats dan alsjeblieft nog een scherpe versie van het logo ergens anders in de illustratie.
-
 - Voeg **geen** "coole" effecten toe aan het logo.
-
 - Plaats **geen** extra effecten in het cookie.
-
 - Voeg **geen** randen toe aan het cookie. Als dit nodig is gebruik je beter een andere kleur voor het cookie.
-
 - Denk er zelfs nog **niet** eens aan om het tekstelement <!-- what does "element" mean in this context? translation might be wrong (too vague for reader: translated as text element)--> te veranderen. Komaan, dat is niet eens ons logo maar gewoon wat tekst in een cirkel.
 
 ### Beperkingen op cookie-gebruik in volledige kleuren
@@ -71,13 +60,8 @@ Omdat osu! wordt gedreven door de community, werd het osu! cookie logo ontworpen
   ![](img/restrictions-bad-full.png)
   
 - Gebruik het oude cookie **niet**.
-
 - Gebruik **geen** andere roze tint.
-
 - Gebruik **geen** gradiënt op het cookie in volledige kleuren.
-
 - Gebruik **geen** andere kleuren.
-
 - Voeg **niets** toe aan het cookie.
-
 - Verander **niets** van de cookie-elementen in iets anders.

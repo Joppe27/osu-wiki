@@ -1,10 +1,10 @@
 # Bijdragers aan de community
 
-![](/wiki/shared/contributor.jpg "Contributor badge")
+![](/wiki/shared/contributor.jpg "Bijdragersbadge")
 
 De **Communitybijdragers** zijn de mensen die het op zich hebben genomen om de osu! community te verbeteren, en hier erg veel tijd en moeite in te steken - ze creëerden tools en functies die we vandaag soms vanzelfsprekend vinden. Aan deze gebruikers wordt een badge gegeven om aan te geven dat ze iets erg bijzonder hebben gedaan voor heel de community. 
 
-Niet te verwarren met [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), dat zijn vroegere osu! teamleden die gestopt zijn bij osu!. Badges voor communitybijdragers worden gegeven aan spelers die zich extra inzetten om de community en omgeving van osu! te verbeteren.
+Niet te verwarren met [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), dat zijn vroegere osu! teamleden die gestopt zijn bij osu!. Bijdragersbadges worden gegeven aan spelers die zich extra inzetten om de community en omgeving van osu! te verbeteren.
 
 ## 2013
 
@@ -172,33 +172,33 @@ Niet te verwarren met [osu! Alumni](/wiki/People/The_Team/osu!_Alumni), dat zijn
 | ![][flag_CL] [Milan-](https://osu.ppy.sh/users/1052994)       | Uitstekende bijdrage aan de Mappers' Guild en Beatmap Nominators      |
 | ![][flag_US] [Joehu](https://osu.ppy.sh/users/8549835)        | Uitstekende bijdrage aan osu! open source projecten                   |
 
-[flag_AR]: /wiki/shared/flag/AR.gif "Argentina"
-[flag_AT]: /wiki/shared/flag/AT.gif "Austria"
-[flag_AU]: /wiki/shared/flag/AU.gif "Australia"
-[flag_BE]: /wiki/shared/flag/BE.gif "Belgium"
-[flag_BG]: /wiki/shared/flag/BG.gif "Bulgaria"
-[flag_BY]: /wiki/shared/flag/BY.gif "Belarus"
+[flag_AR]: /wiki/shared/flag/AR.gif "Argentinië"
+[flag_AT]: /wiki/shared/flag/AT.gif "Oostenrijk"
+[flag_AU]: /wiki/shared/flag/AU.gif "Australië"
+[flag_BE]: /wiki/shared/flag/BE.gif "België"
+[flag_BG]: /wiki/shared/flag/BG.gif "Bulgarije"
+[flag_BY]: /wiki/shared/flag/BY.gif "Wit-Rusland"
 [flag_CA]: /wiki/shared/flag/CA.gif "Canada"
-[flag_CH]: /wiki/shared/flag/CH.gif "Switzerland"
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
+[flag_CH]: /wiki/shared/flag/CH.gif "Zwitserland"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
 [flag_CN]: /wiki/shared/flag/CN.gif "China"
-[flag_DE]: /wiki/shared/flag/DE.gif "Germany"
-[flag_ES]: /wiki/shared/flag/ES.gif "Spain"
+[flag_DE]: /wiki/shared/flag/DE.gif "Duitsland"
+[flag_ES]: /wiki/shared/flag/ES.gif "Spanje"
 [flag_FI]: /wiki/shared/flag/FI.gif "Finland"
-[flag_FR]: /wiki/shared/flag/FR.gif "France"
-[flag_GB]: /wiki/shared/flag/GB.gif "United Kingdom"
-[flag_GR]: /wiki/shared/flag/GR.gif "Greece"
+[flag_FR]: /wiki/shared/flag/FR.gif "Frankrijk"
+[flag_GB]: /wiki/shared/flag/GB.gif "Verenigd Koninkrijk"
+[flag_GR]: /wiki/shared/flag/GR.gif "Griekenland"
 [flag_HK]: /wiki/shared/flag/HK.gif "Hong Kong"
-[flag_HU]: /wiki/shared/flag/HU.gif "Hungary"
+[flag_HU]: /wiki/shared/flag/HU.gif "Hongarije"
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
 [flag_MX]: /wiki/shared/flag/MX.gif "Mexico"
-[flag_MY]: /wiki/shared/flag/MY.gif "Malaysia"
-[flag_NL]: /wiki/shared/flag/NL.gif "Netherlands"
-[flag_NO]: /wiki/shared/flag/NO.gif "Norway"
-[flag_NZ]: /wiki/shared/flag/NZ.gif "New Zealand"
-[flag_PH]: /wiki/shared/flag/PH.gif "Philippines"
-[flag_PL]: /wiki/shared/flag/PL.gif "Poland"
-[flag_RU]: /wiki/shared/flag/RU.gif "Russian Federation"
-[flag_SE]: /wiki/shared/flag/SE.gif "Sweden"
+[flag_MY]: /wiki/shared/flag/MY.gif "Maleisië"
+[flag_NL]: /wiki/shared/flag/NL.gif "Nederland"
+[flag_NO]: /wiki/shared/flag/NO.gif "Noorwegen"
+[flag_NZ]: /wiki/shared/flag/NZ.gif "Nieuw-Zeeland"
+[flag_PH]: /wiki/shared/flag/PH.gif "Filipijnen"
+[flag_PL]: /wiki/shared/flag/PL.gif "Polen"
+[flag_RU]: /wiki/shared/flag/RU.gif "Russische Federatie"
+[flag_SE]: /wiki/shared/flag/SE.gif "Zweden"
 [flag_SG]: /wiki/shared/flag/SG.gif "Singapore"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_US]: /wiki/shared/flag/US.gif "Verenigde Staten"

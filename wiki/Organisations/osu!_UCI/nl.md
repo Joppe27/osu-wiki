@@ -2,7 +2,7 @@
 
 **osu! UCI** is een osu! club die gefocust is op het spelen en bespreken van osu! aan de University of California, Irvine (*UCI*). Ze organiseren verschillende evenementen, zoals LAN-toernooien en wekelijkse meetups.
 
-Zie de [osu! UCI toernooi index](/wiki/Tournaments/osu!_UCI) voor wiki-artikels over een deel van hun LAN events.
+Zie de [osu! UCI toernooi-index](/wiki/Tournaments/osu!_UCI) voor wiki-artikels over een deel van hun LAN events.
 
 ## Links
 
@@ -44,4 +44,4 @@ Zie de [osu! UCI toernooi index](/wiki/Tournaments/osu!_UCI) voor wiki-artikels 
 - ![][flag_US] Victor "[lalipo](https://osu.ppy.sh/users/2584801)" Stolle
 
 [flag_JP]: /wiki/shared/flag/JP.gif "Japan"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_US]: /wiki/shared/flag/US.gif "Verenigde Staten"

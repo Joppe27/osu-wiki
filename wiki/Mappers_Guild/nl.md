@@ -52,5 +52,5 @@ Terwijl het oorspronkelijk plan altijd was om MMO-elementen zoals quests voor de
 
 De [Mappers' Guild website](https://mappersguild.com/) werd gelanceerd op 1 maart 2019, en dit is waar alles m.b.t. de Mappers' Guild op dit moment geregeld wordt. Sinds de guild geopend werd zijn er meer dan 500 leden bijgekomen en worden er ook [update newsposts](https://osu.ppy.sh/home/news/2019-11-29-featured-artist-beatmap-updates-from-the-mappers-guild) gepubliceerd om de rest van de osu! community up-to-date te houden met de content van featured artists.
 
-[flag_CL]: /wiki/shared/flag/CL.gif "Chile"
-[flag_US]: /wiki/shared/flag/US.gif "United States"
+[flag_CL]: /wiki/shared/flag/CL.gif "Chili"
+[flag_US]: /wiki/shared/flag/US.gif "Verenigde Staten"

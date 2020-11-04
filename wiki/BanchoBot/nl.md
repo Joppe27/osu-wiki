@@ -1,105 +1,94 @@
 ---
-outdated: true
 no_native_review: true
 ---
 
 # BanchoBot
 
+*Niet te verwarren met [Bancho (server)](/wiki/Bancho)*
+
 ![BanchoBot's gebruikerskaart](img/BanchoBot.jpg "BanchoBot's gebruikerskaart")
 
-BanchoBot is een bot (d.w.z. een verzameling van opdrachten met geautomatiseerde antwoorden) die mensen in de chat helpt door bepaalde informatie weer te geven en spelgerelateerde berichten aan te kondigen. Hij werd geprogrammeerd door [Echo49](https://osu.ppy.sh/users/431) en is de host van de [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). BanchoBot heeft ook z’n eigen [osu! profile](https://osu.ppy.sh/users/3) en [Twitteraccount](https://twitter.com/banchoboat)!
+**BanchoBot** (ook gekend als *Bancho*) is een online chatbot ontwikkeld voor osu!, die mensen in de in-game chat helpt door spelgerelateerde mededelingen te versturen (bv. totaal aantal keer gespeeld, aantal pogingen, enz.) en door te reageren op bepaalde opdrachten. BanchoBot werd geprogrammeerd door [Echo](https://osu.ppy.sh/users/431) en is de provider van de [Bancho IRC](/wiki/Internet_Relay_Chat) (Internet Relay Chat). 
+
+BanchoBot heeft ook z’n eigen [osu! profiel](https://osu.ppy.sh/users/3) en [Twitteraccount](https://twitter.com/banchoboat)!
 
 ## Opdrachten
 
-*Voor een lijst van in-game clientopdrachten, zie: [Chatconsole](/wiki/Chat_Console#commands-list)*
+*Voor een lijst van opdrachten binnen de in-game client, zie: [Chatconsole](/wiki/Chat_Console#commands-list)*
 
-BanchoBot-opdrachten beginnen met `!` gevolgd door de opdracht. Deze opdrachten werken in-game en in externe IRC clients. Ze kunnen gebruikt worden in multiplayer chatkanalen en in BanchoBots PM (privébericht)-kanaal. Als een gewone gebruiker een BanchoBot-opdracht in een publiek chatkanaal verstuurt zullen andere gebruikers dit niet zien, maar het antwoord van BanchoBot zal in een privébericht van hem naar je worden gestuurd.
+BanchoBot kan reageren op opdrachten van spelers door te antwoorden op berichten in de chat. Alle BanchoBot-opdrachten beginnen met een uitroepteken (`!`), gevolgd door de naam van het commando die niet hoofdlettergevoelig is (zonder spaties ertussen). Deze commando's kunnen gebruikt worden in chatkanalen en in privéberichten met Bancho.
 
-Je kan ook de `/bb` in-game client opdracht gebruiken om automatisch een gesprek met BanchoBot te starten zodat je jouw opdracht meteen kan versturen.
+Als een normale gebruiker een commando in een publiek chatkanaal verstuurt, zullen andere gebruikers dit niet kunnen zien. Het antwoord op dit commando wordt verstuurd via een privébericht van Bancho. Gebruikers mogen ook het `/bb`-chatcommando gebruiken om automatisch een gesprek met BanchoBot te starten zodat ze hun opdrachten meteen kunnen versturen.
 
-*Let op: De `REQUEST`-opdracht werkt niet meer en wordt niet meer ondersteund.*
+Hieronder zijn alle BanchoBot commando's opgelijst:
 
-*Opmerking: Het ‘user’ argument is hoofdlettergevoelig, omdat gebruikersnamen ook hoofdlettergevoelig zijn.*
+- [Help](#help)
+- [Roll](#roll)
+- [Stats](#stats)
+- [Where](#where)
+- [FAQ](#faq)
+- [Report](#report)
 
-### HELP
-
-```
-!HELP
-```
-
-Geeft een lijst van de beschikbare BanchoBot-opdrachten.
-
-#### Gebruiksvoorbeeld
-
-*Let op: De `user` parameter voor de `REPORT`-opdracht ontbreekt.*
+### Help
 
 ```
-pippi: !help
-BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
-BanchoBot: WHERE <gebruiker>
-BanchoBot: STATS <gebruiker>
-BanchoBot: FAQ <onderwerp>|list
-BanchoBot: REPORT <reden> - call for an admin
-BanchoBot: REQUEST [list] - shows a random recent mod request
-BanchoBot: ROLL <reden> - roll a dice and get random result from 1 to number(default 100)
+!help
 ```
 
-### ROLL
+`!help` toont een lijst van alle beschikbare BanchoBot-opdrachten. Hieronder een voorbeeld van hoe deze opdracht gebruikt wordt:
 
 ```
-!ROLL <getal>
+13:00 pippi: !help
+13:00 BanchoBot: Standard Commands (!COMMAND or /msg BanchoBot COMMAND):
+13:00 BanchoBot: WHERE <user>
+13:00 BanchoBot: STATS <user>
+13:00 BanchoBot: FAQ <item>|list
+13:00 BanchoBot: REPORT <reason> - call for an admin
+13:00 BanchoBot: REQUEST [list] - shows a random recent mod request
+13:00 BanchoBot: ROLL <number> - roll a dice and get random result from 1 to number(default 100)
 ```
 
-Geeft een willekeurig cijfer van 1 tot het geselecteerde getal (standaard 100).
-
-#### Gebruiksvoorbeeld
+### Roll
 
 ```
-pippi: !roll 1000
-BanchoBot: pippi rolls 109 point(s)
+!roll <argument>/<getal>
 ```
 
-### STATS
+`!roll` trekt een willekeurig getal van 1 tot het geselecteerde getal. Als er geen getal of argument wordt ingegeven, wordt 100 als maximumgetal gebruikt. Hieronder voorbeelden van hoe deze opdracht gebruikt wordt:
 
 ```
-!STATS <gebruiker>
-```
-
-Toont de statistieken van de gekozen gebruiker. Het resultaat hangt of van de spelmodus die de gebruiker nu aan het spelen is of als laatste speelde.
-
-*Opmerking: BanchoBot vertelt je niet uit welke spelmodus de statistieken afkomstig zijn.*
-
-*Let op: BanchoBot zal antwoorden met User not found als de gevraagde gebruiker nog nooit een beatmap heeft gespeeld, zelfs als die gebruiker wel bestaat.*
-
-#### Gebruiksvoorbeeld
-
-```
-pippi: !stats peppy
-BanchoBot: Stats for peppy:
-BanchoBot: Store: 422,187,979 (#94718)
-BanchoBot: Plays: 7149 (lv65)
-BanchoBot: Accuracy: 87.29%
+13:00 pippi: !roll 1000
+13:00 BanchoBot: pippi rolls 109 point(s)
 ```
 
 ```
-pippi: !stats Ephemeral:
-BanchoBot: Stats for Ephemeral is Playing:
-BanchoBot: Store: 2,384,155,536 (#33697)
-BanchoBot: Plays: 14054 (lv96)
-BanchoBot: Accuracy: 94.19%
+13:01 pippi: !roll kans op mislukking
+13:01 BanchoBot: pippi rolls 75 point(s)
 ```
 
-### WHERE
+### Stats
 
 ```
-!WHERE <gebruiker>
+!STATS <gebruikersnaam>
 ```
 
-Toont de huidige locatie van die gebruiker.
+`!stats` toont de statistieken van de gebruiker die ingegeven werd. De uitvoer van dit commando hangt af van de [spelmodus](/wiki/Game_Modes) die de gebruiker voor het laatst speelde, alhoewel BanchoBot niet zegt van welke spelmodus deze statistieken afkomstig zijn. Als BanchoBot gevraagd wordt om de statistieken van een gebruiker die nog nooit osu! gespeeld geeft weer te geven, zal het antwoord `User not found` zijn, zelfs al bestaat die gebruiker wel. Hieronder een voorbeeld van hoe deze opdracht werkt:
 
-*Opmerking: Dit toont standaard enkel het land waarin de gebruiker zich bevindt. Als die gebruiker `Deel je woonplaats met anderen` heeft ingeschakeld, kan zijn of haar stad ook getoond worden.*
+```
+13:01 pippi: !stats peppy
+13:01 BanchoBot: Stats for peppy:
+13:01 BanchoBot: Store: 427,514,691 (#94718)
+13:01 BanchoBot: Plays: 7348 (lv66)
+13:01 BanchoBot: Accuracy: 87.13%
+```
 
-#### Gebruiksvoorbeeld
+### Where
+
+```
+!where <gebruiker>
+```
+
+`!where` toont de huidige locatie van de gebruiker die ingegeven werd. Standaard toont dit enkel het land van de gebruiker, maar als de gebruiker `Deel je woonplaats met anderen` heeft ingeschakeld, zal ook hun stad weergegeven worden. Hieronder een voorbeeld van hoe deze opdracht werkt:
 
 ```
 pippi: !where Ephemeral
@@ -109,46 +98,41 @@ BanchoBot: Ephemeral is in Australia
 ### FAQ
 
 ```
-!FAQ <invoer>
-!FAQ list
-```
-
-Toont een mededeling die gekoppeld is aan de invoer. Je kan het `list`-argument gebruiken om alle beschikbare invoeren te tonen. Wanneer een moderator dit in een publiek chatkanaal gebruikt zal het antwoord ook in dat kanaal worden weergegeven. Als normale gebruikers deze opdracht in een publiek chatkanaal gebruiken zal BanchoBot antwoorden via een PM.
-
-#### Gebruiksvoorbeeld
-
-```
-pippi: !faq peppy
-BanchoBot: peppy is the lead developer and indeed, the creator of osu! and handles most of the project himself.
+!faq <invoer>
 ```
 
 ```
-Tama: 你好
-Yuzu: !faq chinese
-BanchoBot: 中文用户请点击 #chinese 以进入中文频道进行交流。
-BanchoBot: #osu 是英文专属频道，如果接获此讯息后继续在 #osu 内以中文交谈，管理员有权利禁言。
-Tama: ok
+!faq list
 ```
 
-### REPORT
-
-*Opmerking: Als je een moderator wilt rapporteren, stuur dan een e-mail naar [support@ppy.sh](mailto:support@ppy.sh) voor klachten over moderators.*
-
-*Opmerking: Je kan ook iemand rapporteren via hun gebruikerskaart.*
+`!faq` toont de toelichting die bij een ingevoerd onderwerp hoort. Het `list`-argument kan ook gebruikt worden om alle beschikbare onderwerpen te tonen. BanchoBot zal standaard antwoorden in het Engels, maar het is mogelijk om dit antwoord in een andere taal te ontvangen door de [tweelettercode](/wiki/Article_Styling_Criteria#locales) van die taal voor het onderwerp te voegen. Hieronder voorbeelden van hoe deze opdracht gebruikt wordt:
 
 ```
-!REPORT <gebruiker> <reden>
+13:03 pippi: !faq peppy
+13:03 BanchoBot: peppy is the lead developer and indeed, the creator of osu! and handles most of the project himself.
 ```
 
-*Voor info over wat de moeite waard is om te rapporteren, zie [Ongepast Gedrag Rapporteren](/wiki/Reporting_Bad_Behaviour).*
+```
+13:04 pippi: !faq ru:lines
+13:04 BanchoBot: Умещайте свои мысли в меньшее количество строк, чтобы не получить сайленс.
+```
 
-*Opmerking: Wanneer je een gebruikersnaam ingeeft, vervang dan alle spaties door een laag liggend streepje (`_`).*
+### Report
 
-Deze opdracht verstuurt een rapportering naar het [Globale Moderatieteam](/wiki/Global_Moderation_Team) of de [Taalmoderators](/wiki/Language_Moderators).
-
-#### Gebruiksvoorbeeld
+*Voor informatie over wat het waard is om te rapporteren, zie [Ongepast gedrag rapporteren](/wiki/Reporting_Bad_Behaviour)*
 
 ```
-pippi: !report flyte spamming in #japanese
-BanchoBot: Chat moderators have been alerted. Thanks for your help.
+!report <gebruiker> <reden>
 ```
+
+`!report` brengt het [Wereldwijde Moderatieteam](/wiki/Global_Moderation_Team) op de hoogte van het ongepaste gedrag van een gebruiker. Als een gebruiker spaties in hun naam heeft, vervang ze dan door underscores (bv. `heel coole gebruikersnaam` wordt `heel_coole_gebruikernaam`). Verzend een e-mail naar [support@ppy.sh](mailto:support@ppy.sh) om een moderator te rapporteren. Hieronder een voorbeeld van het rapporteren van een normale gebruiker via BanchoBot:
+
+```
+13:10 pippi: !report flyte spamming in #japanese
+13:10 BanchoBot: Chat moderators have been alerted. Thanks for your help.
+```
+
+## Trivia 
+
+- De gebruikerspagina van BanchoBot heeft "Here since the beginning" als toetredingsdatum
+  - De officiële toedredingsdatum van BanchoBot is 22:09:14 UTC-5, 27 augustus 2007

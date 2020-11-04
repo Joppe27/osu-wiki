@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated: true
-outdated_since: 6e9200e42c1c320aa83b8ac62a2dd9b678bb3eb4
 ---
 
 # Beatmap rankingprocedure
@@ -28,15 +26,9 @@ Het wordt aanbevolen om eerst mods te ontvangen voordat je nominaties aanvraagt 
 
 ## Kwalificatie
 
-Beatmaps die twee nominaties krijgen worden verplaatst naar de [Gekwalificeerd](/wiki/Beatmaps#qualified)-beatmapcategorie voor minstens 7 dagen. Gekwalificeerde beatmaps hebben ranglijsten, maar belonen spelers niet met [prestatiepunten (pp)](/wiki/Performance_Points).
+Beatmaps die twee nominaties krijgen worden verplaatst naar de [Gekwalificeerd](/wiki/Beatmaps#qualified)-beatmapcategorie. Gekwalificeerde beatmaps hebben ranglijsten, maar belonen spelers niet met [prestatiepunten (pp)](/wiki/Performance_Points). Wanneer een beatmap voor minstens 7 dagen in de Gekwalificeerd-categorie blijft, kan de [rankingwachtrij](Ranking_queue) ze vanaf dat moment verplaatsen naar [Ranked](#ranked).
 
 Deze beatmapcategorie bestaat om beatmaps een grotere belangstelling te geven aan de osu! community zodat eventuele problemen hopelijk ontdekt worden. Problemen kunnen gemeld worden aan de leden van de BNs en NAT van de beatmappagina. In tegenstelling tot Pending (In Afwachting)-beatmaps kunnen Gekwalificeerde beatmaps niet meer aangepast worden door de maker. Feedback kan dus enkel toegepast worden na een [nominatiereset](#nomination-resets).
-
-### Verplaatsing naar Ranked
-
-Gekwalificeerde beatmapsets worden in een wachtrij geplaatst om ze Ranked te laten worden. 8 beatmapsets van elke spelmodus kunnen verdergaan van Gekwalificeerd naar Ranked, zolang ze minstens 7 dagen in de wachtrij hebben gestaan. Hierdoor blijven sommige beatmapsets iets langer dan 7 dagen Gekwalificeerd.
-
-Als een beatmap gediskwalificeerd wordt, wordt de positie van die beatmap in de wachtrij opgeslagen. Bij herkwalificatie wordt de beatmap weer in die positie in de wachtrij geplaatst. Als een beatmapset bijvoorbeeld gekwalificeerd is voor 2 dagen, dan gediskwalificeerd en opnieuw geherkwalificeerd zal ze nog voor ongeveer 5 dagen in de wachtrij staan. Als de opgeslagen wachtrijpositie minder dan 24 uur verwijderd is van Ranked zal ze gereset worden naar 24 uur wanneer ze terug Gekwalificeerd wordt.
 
 ## Nominatieresets
 

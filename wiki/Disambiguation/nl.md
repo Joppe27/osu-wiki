@@ -1,12 +1,10 @@
 ---
 no_native_review: true
-outdated: true
-outdated_since: 8043b3a603ef5a8bb7ab9f982fceed3825cb249f
 ---
 
 # Disambiguatie
 
-Disambiguatie in de osu! wiki is het verhelpen van vergissingen wanneer de titel van een artikel dubbelzinnig is, vaak omdat de titel verwijst naar meer dan één onderwerp dat door de osu! wiki werd behandeld, hetzij als hoofdonderwerp van een artikel, of als subonderwerp dat door een artikel behandeld werd als aanvulling op de hoofdzaak van het artikel.
+Disambiguatieartikels in de [osu! wiki](/wiki/Main_Page) benadrukken dubbelzinnige termen en leggen al hun verschillende mogelijke betekenissen uit. Artikels die onderwerpen bespreken waarbij dubbelzinnige termen gebruikt worden hebben soms "niet te verwarren met"-opmerkingen die doorverwijzen naar andere onderwerpen.
 
 ## Lijst van disambiguatieartikels
 
@@ -14,3 +12,4 @@ Disambiguatie in de osu! wiki is het verhelpen van vergissingen wanneer de titel
 - [Easy](Easy)
 - [EZ](EZ)
 - [Mod](Mod)
+- [Version](Version)

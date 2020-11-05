@@ -1,132 +1,88 @@
----
-outdated: true
----
-
 # FAQ
 
-Dit onderdeel gaat over het spelprincipe van osu!, samen met een uiteenzetting van het puntensysteem en het speluitzicht.
-
-## Het spel
+## osu! Introductie
 
 ### "Ouendan"? Nog nooit van gehoord - wat is het?
 
-Oké, dus, Osu! Tatakae! Ouendan([1](http://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)) is een ritme-spel bedoeld voor Nintendo DS. De speeltechniek bestaat maar uit drie elementen: het aantikken van de cirkels die op het scherm verschijnen, het slepen van een bal volgens een bepaald traject en het snel ronddraaien van een spinner. Elk van deze elementen is getimed op (covers van) bekende Japanse liedjes. Zo ziet het eruit op de DS:
+*[Osu! Tatakae! Ouendan](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan)* is een ritme-spel voor de Nintendo DS. De speeltechniek bestaat maar uit drie elementen: het aantikken van de cirkels die op het scherm verschijnen, het slepen van een bal volgens een bepaald traject en het snel ronddraaien van een spinner. Elk van deze elementen is getimed op (covers van) bekende Japanse liedjes. Zo ziet het eruit op de DS:
 
-![](/wiki/shared/Ouendan.jpg)
+![Voorbeeld van Osu! Tatakae! Ouendan gameplay op de Nintendo DS](/wiki/shared/Ouendan.jpg)
 
-Op het scherm onderaan kan je de cirkels zien, en het verhaalverloop wordt weergegeven op het scherm bovenaan. Elk stadium is in wezen een verhaal op zichzelf over iemand in moeilijkheden. Dat is wanneer de Ouendan (supportersteam) ingrijpt. Met behulp van de magische krachten van hun mannelijk cheerleaden, moet je de mensen uit de problemen helpen.
+Op het scherm onderaan kan je de cirkels zien, en het verhaalverloop wordt weergegeven op het scherm bovenaan. Elk stadium is in wezen een verhaal op zichzelf over iemand in moeilijkheden. Dat is wanneer de *Ouendan* (supportersteam) ingrijpt. Met behulp van de magische krachten van hun mannelijk cheerleaden, moet je de mensen uit de problemen helpen.
 
 ### Hoe te spelen?
 
-Aangezien de meester computergebruikers geen touchscreen ter beschikking hebben (tenzij jij de geluksvogel bent met een tablet-pc), is dit spel gemaakt om speelbaar te zijn met een doodgewone muis, net als eender welk invoerapparaat dat je maar kan indenken (een wiimote werkt vrij goed, net als een grafisch tableau, als je er toevallig een hebt liggen). De verschillende speeltechnieken kan je vinden op de pagina [Play Styles](/wiki/Play_Styles). Er zijn wel liedjes die de grenzen van de gewone muis verleggen, maar ze zijn allemaal getest en zijn (op een of andere manier toch) haalbaar met enkel een muis. Laat het gebrek aan touchscreen je alvast geen schrik aanjagen!
+*Volledige uitleg: [osu!](/wiki/Game_mode/osu!)*
 
-Nu over naar het speelwijze.
+Aangezien de meeste spelers geen touchscreen ter beschikking hebben, is dit spel gemaakt om speelbaar te zijn met een doodgewone muis, net als eenderwelk invoerapparaat dat je je maar kan indenken. De verschillende speeltechnieken kan je vinden op de [play styles](/wiki/Play_Styles)-pagina. Er zijn wel liedjes die de grenzen van de gewone muis verleggen, maar alle (gerankte en goedgekeurde) beatmaps zijn getest en de meeste van hun zijn (op een of andere manier toch) haalbaar met enkel een muis.
 
-### Hit Circles
+#### Basis van de gameplay
 
-![](/wiki/shared/osu_hitcircles.jpg)
+*Tutorial: [osu! tutorial (new beginnings)](https://osu.ppy.sh/beatmapsets/1011011)*
 
-^ Hier zie je de cirkels die je moet aantikken. De kleinere, gekleurde kring eromheen krimpt en je slaat de noot aan op het exact moment dat de buitencirkel de witte rand raakt. Hang echter niet alleen af van je ogen: luister naar de muziek om beter te kunnen beslissen welk moment het juiste is.
+De gameplay legt de nadruk op:
 
-### Sliders
+- Het aanpassen en reagaren van de speler op stimuli (de hitobjecten die over heel het scherm verschijnen tegen lichtsnelheid).
+- Het begrijpen van het ritme en de melodie van het nummer.
+- Het besturen van de invoerapparaaten.
+- Het timen van de hits op de objecten die overal op het scherm verschijnen.
+- Het ronddraaien van de muis (of pen op tablets) op spinners.
+- Het fysiek uithoudingsvermogen en de mentale kracht van de speler (vooral op lange, marathon-achtige nummers)
+- Het positioneren van de muis en hand-oogcoördinatie
 
-![](/wiki/shared/osu_slider.jpg)
+Dit zijn enkele van de belangrijkste vaardigheden om een *osu! ritme meester* te worden. De eerste stap om jouw avontuur te beginnen is om de basis (en theorie) van de aanklikbare objecten (vanaf hier *hitobjecten* genoemend) te leren.
 
-^ Hier hebben we een "slider" voor je. Ten eerste moet je hem aantikken op het juiste moment, maar dan ben je er nog niet vanaf. Een bal zal het traject dat je ziet beginnen volgen. Je houdt je muis ingedruk terwijl je de muisaanwijzer op de bal houdt en hem volgt op zijn weg (je beheerst het bewegen van de bal niet zelf). Soms, zoals ook in de afbeelding hierboven, moet je aan het einde van het traject ook nog op je weg terugkeren. Dit zie je aan het terugkeer-symbool op het einde van de slider.
+##### Hit Circles
 
-### Spinners
+![Hitcirkels](/wiki/shared/osu_hitcircles.jpg)
 
-![](/wiki/shared/osu_spinner.jpg)
+Een dunne ring met gelijkaardige kleur als de hitcrikel, aan de buitenkant van de hitcirkel, zal langzaamaan verkleinen. Klik de noot aan op het exacte moment dat de ring de witte rand van de hitcirkel aanraakt. Een score zal verschijnen na het aanklikken van de cirkel die de score- en healthveranderingen aangeeft, afhankelijk van de timing. De hitcirkel zal verwijnt na het tonen van de score.
 
-^ Dit is een "spinner". Hierbij moet je klikken en je muis ingedrukt houden, en tegelijkertijd je aanwijzer ronddraaien (wijzerszin of tegenwijzerszin, maakt niet uit) als een gek tot de tijd op is. De balken aan de buitenkant wijzen aan hoe dicht je bij slagen bent. Op de DS zijn deze dé manier om je touchscreen te bekrassen (of je bescherming, als je slim bent), zeker bij de hogere moeilijkheidsgraad. In osu! zijn spinners afgezwakt, zodat ze minder vervelend zijn om te voltooien. Het maximum aantal rotaties per minuut dat je kan halen is 477, dezelfde snelheid waarmee "Auto" mod spint. De "Spun Out" mod spint trager, met 287 rotaties per minuut. Terwijl je je aanwijzer ingedruk houdt, blijft je muis ingesloten in het gebied van de spinner, dus je er goed op los laten, of juist in kleine kringetjes ronddraaien - bekijk wat van de replays van topscores als je geïnteresseerd bent in spinstijlen!
+Om het geheim van hitcirkels te begrijpen, vertrouw je best niet enkel op het zien van de cirkels; voel het ritme van de beatmap aan. Dit helpt bij de complexe hitcirkelpatronen van latere moeilijkheidsgraden, zo worden ze minder verwarrend.
 
-### Speluitzicht
+##### Sliders
 
-Voor meer informatie kan je [hierheen](/wiki/Interface) gaan.
+![Sliders](/wiki/shared/osu_slider.jpg)
 
-![](/wiki/shared/osu-gameplay.jpg)
+Ten eerste moet je hem aantikken op het juiste moment, maar daar eindigt het niet. Een sliderbal zal het traject dat je ziet beginnen volgen. Je houdt jouw muis-/toetsenbordknop ingedrukt (of je houdt de pen op jouw tablet) en je volgt de bal binnen de oranje cirkel mee op zijn weg. De oranje cirkel, die de volgcirkel noemt, zal verschijnen als je de sliderbal ingedrukt houdt, maar verdwijnt weer wanneer je hem loslaat.
 
-Dit is het speluitzicht. De balk bovenaan links is je levensbalk. Deze zal met een vaste snelheid (afhankelijk van de moeilijkheidsgraad vastgelegd door de mapper(s)) dalen. Door de noten op het juiste moment te raken kan je het echter bijvullen. Een perfect afgetikte hit (zgn. '300 hit' of 'Geki Beat') zal je leven meer doen stijgen dan een slecht afgetikte hit ('100' of zelfs '50' hit). Wanneer je mist wordt er een flinke hap uit je levensbalk genomen. Rechts naast de levensbalk kan je je score zien. Het nummer links onder is je comboteller/score vermenigvuldiger.
+Soms kan, zoals je op het screenshot hierboven ziet, de bal van richting omkeren waarna de speler de bal terug naar de start van het traject moet volgen of vice versa. Je kan dit zijn aan de omgekeerde pijl op de eind-/begincirkel van de slider.
 
-## Punten halen
+##### Spinners
 
-Dit onderdeel gaat dieper in op de fijne kneepjes van het scoren, met inbegrip van de wiskunde formules.
+![Spinner](/wiki/shared/osu_spinner.jpg)
 
-### Precisie
+Houd de muis-/of toetsenbordknop in (of houd de pen op de tablet). Gebruik dan de muis (of pen) en draai in een cirkelvormige beweging (in eenderwelke richting) tot de spinnercirkel volledig naar buiten vergroot. Een *Clear*-melding zal verschijnen als de spinner volledig voltooid is. Als de spinner vroeger dan voorzien voltooid wordt, blijf dan verderdraaien om een scorebonus te ontvangen en wat health terug te krijgen.
 
-[precisie](/wiki/Accuracy) = totale punten van hits / (totaal aantal hits \* 300)
+De buitenste, witte cirkel geeft aan hoeveel tijd er nog over is om de spinner te voltooien. De cirkel zal rood worden wanneer de tijd bijna op is. Oudere beatmaps die *skinversie 1.0* gebruiken, hebben een in plaats daarvan een meter die aangeeft hoeveel er van de spinner voltooid is.
 
-Totaal aantal hits = (aantal keer gemist + aantal hits van '50' + aantal hits van '100' + aantal hits van '300') Totaal aantal punten van hits = (aantal hits van '50' \* 50 + aantal hits van '100' \* 100 + aantal hits van '300' \* 300)
+Het kleine vakje onder de spinner toont de rotaties per minuut. Het getal in dat vakje is gelijk aan het aantal rotaties er per minuut zouden gebeuren, moest er één minuut lang verdergespind worden op dezelfde snelheid. Als de muis-/toetsenbordknop losgelaten wordt (of als de pen de tablet niet meer aanraakt) voordat het einde van de spinner bereikt werd, zal de spinner vanaf dat moment geen rotaties meer lezen.
 
-Met andere woorden, elke keer dat je mist telt het voor 0 punten, elke '50' telt voor 50 punten, elke '100' voor 100 punten and each 300 as 300 points. Tel ze allemaal samen en deel dat door de som van het aantal hits vermenigvuldigd met 300. Als je dus alleen hits van 300 scoort, zal je een resultaat van 1.00 krijgen, wat gelijkstaat met 100% precisie. Als je alleen hits van 100 scoort, zal je een resultaat van 0.3333 krijgen, wat gelijk is aan 33.33% precisie.
+Op de *DS* zijn deze dé manier om het touchscreen (of de screen protector) te bekrassen, zeker bij de hogere moeilijkheidsgraden. In osu! zijn spinners wat afgezwakt, zodat ze minder vervelend zijn om te voltooien. Het maximum aantal rotaties per minuut dat je kan halen is 477, dezelfde snelheid waarmee de "Auto" mod spint. De "Spun Out" mod spint trager, met 287 rotaties per minuut.
 
-### Score
+#### In-Game Interface
 
-De score gegeven bij elke hit circle en einde van een slider wordt berekend met de volgende formule:
+![osu! interface](/wiki/shared/osu-gameplay.jpg "In-game interface van osu!")
 
-Score = HitWaarde + HitWaarde \* (Combo-vermenigvuldiger \* Moeilijkheidsvermenigvuldiger \* Modvermenigvuldiger) / 25
+De balk bovenaan links is de levensbalk. Deze zal met een vaste snelheid (afhankelijk van de moeilijkheidsgraad vastgelegd door de mapper(s)) dalen. Door de noten op het juiste moment te raken kan je het echter bijvullen. Een perfect getimede hit (een 300 of Geki) zal je leven meer doen stijgen dan een slecht getimede hit (50). Wanneer je mist wordt er een flinke hap uit je levensbalk genomen. 
 
-HitWaarde = de hit circle beoordeling (50, 100 of 300). Combo-vermenigvuldiger = (Combo voor deze hit - 1) OF 0, welk van de twee het hoogste is. Moeilijkheidsvermenigvuldiger = de moeilijkheidsgraad voor deze beatmap. Modvermenigvuldiger = de vermenigvuldiger voor de gekozen mods.
+Rechts naast de levensbalk is de totale score zichtbaar. Daaronder staat de nauwkeurigheid. Het cirkeltje dat naast de nauwkeurigheid staat (en onder de score) is een timer van de looptijd van de beatmap. Het nummer linksonder is de comboteller/scorevermenigvuldiger.
 
-Daarbovenop krijg je van het begin, einde en terugkerend symbool van elke slider 30 punten. Met elke slider tick (punt op de slider, meestal wit) verdien je 10 punten en met elke spin van een spinner 100 punten. Nadat de meter van de spinner vol is (alle balken met kleur opgevuld) krijg je daarbovenop nog 1000 punten voor elke extra rotatie.
+#### Bediening
 
-### Hit circle beoordeling
+De standaardcontrols voor osu! zijn:
 
-Je krijgt een 300, 100 of 50 van een normale hit circle, afhankelijk van de precisie waarmee je erop klikt. Als je er helemaal niet op klikt of je klikt er veel te vroeg op, krijg je een mis.
+| Muis | Toetsenbord | Tablet/Touchscreen |
+| :-- | :-- | :-- |
+| Linkermuisknop(M1) / Rechtermuisknop(M2) | `Z`(K1) / `X`(K2) | Scherm aanraken(M1) |
 
-De beoordeling voor sliders hang niet af van de precisie op de initiële hit. Sliders bestaan uit slider ticks, met inbegrip van het beginpunt, eindpunt en terugkeerpunt op de slider. Je verdient een 300 als je succesvol alle slider ticks raakt, een 100 als je op zijn minst de helft behaalt en een 50 vanaf je erin slaagt op zijn minst één van de ticks te raken. Je krijgt alleen een mis wanneer je op geen enkele tick scoort.
+De hitobjecten in osu! zullen eenderwelke invoer van het invoerapparaat accepteren, zolang het maar op tijd werd aangeklikt.
 
-Er moet echter bij verteld worden dat te vroeg op een slider klikken niet per se een mis betekent, maar toch je combo terug op 0 zet.
+Als de [Relax](/wiki/Game_modifier/Relax) spelmodificator gebruikt is, zal enkel de in-game cursor werken. Gebruik de in-game cursor om de hitobjecten te volgen terwijl ze automatisch aangeklikt worden. Spinners moeten nog steeds voltooid worden.
 
-Voor een spinner krijg je een 300, 100 of 50, afhankelijk van het aantal rotaties je maakt in verhouding tot de lengte van de spinner. Je krijgt een mis als je er niet in slaagt de balken te vullen die langs weerszijden van de spinner staan.
+Als de [Auto Pilot](/wiki/Game_modifier/Autopilot) spelmodificator gebruikt is, zal enkel de invoer van het invoerapparaat werken. Time het klikken van de hitobjecten terwijl de cursor automatisch beweegt. Spinners worden automatisch voltooid, tegen de snelheid van de [Spun Out](/wiki/Game_modifier/Spun_Out) mod.
 
-### Combo
-
-De volgende opties voegen telkens één punt toe aan je score vermenigvuldiger (combo):
-
-- een succesvol geraakte hit circle.
-- een succesvol geraakt beginpunt van een slider.
-- een succesvol geraakt slider-einde.
-- een succesvol geraakte slider tick.
-- een succesvol afgemaakte spinner.
-
-In de volgende gevallen wordt je combo op 0 teruggezet:
-
-- missen van een hit circle.
-- het veel te vroeg aanklikken van het beginpunt van een slider.
-- het beginpunt of een tick van een slider missen.
-- een spinner niet volledig afmaken.
-
-Dit zal je combo niet breken:
-
-- een slider-einde missen.
-
-### Graden
-
-- SS = 100% precisie
-- S = meer dan 90% hits van 300, minder dan 1% hits van 50 zonder te misses.
-- A = meer dan 80% hits van 300 zonder te missen OF meer dan 90% hits van 300.
-- B = meer dan 70% hits van 300 zonder te missen OF meer dan 80% hits van 300.
-- C = meer dan 60% hits van 300.
-- D = al wat niet aan bovenstaande voorwaarden voldoet.
-
-Een platinum S of SS (ook bekend als respectievelijk SH of SSH) betekent dat het lied werd gespeeld gebruikmakende van de '[Hidden](/wiki/Game_modifier/Hidden)' of '[Flashlight](/wiki/Game_modifier/Flashlight)' mod.
-
-### Levensmeter
-
-Het systeem gebruikt om de daling en toename van levenspunten te berekenen is zeer complex, dus wordt niet in detail uitgelegd. Hgaat allemaal om de de levensmoeilijkheidsgraad die bepaald is in de opties van moeilijkheidsgraad apart bepaald per beatmap.
-
-Je leven neemt toe wanneer je:
-
-- een hit circle raakt. (Een betere beoordeling leidt tot meer toename. De laatste hit circle in een combokleur geeft je meer leven.)
-- het begin van een slider raakt, de eind- of terugkeertick. (Een betere beoordeling op de eind-tick leidt tot meer toename.)
-- spint en een spinner afmaakt. (Een betere beoordeling op het einde van de spinner leidt tot meer toename.)
-
-Je verliest leven door:
-
-- de continue vermindering op je levensbalk.
-- een hit circle of slider te missen.
-- een spinner niet af te maken.
+---
 
 ## Alternatieve spelmodi
 

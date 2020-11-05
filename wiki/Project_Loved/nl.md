@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated: true
-outdated_since: 4cd9c01b0078a59837d338311a38226e0e8e5fbf
 ---
 
 # Project Loved
@@ -12,11 +10,13 @@ outdated_since: 4cd9c01b0078a59837d338311a38226e0e8e5fbf
 
 Beatmaps worden verplaatst naar Loved door middel van een nominatie- en stemproces.
 
-Leden van het Project Loved Team, genaamd **captains**, nomineren regelmatig beatmapsets voor een specifieke spelmodus. Deze sets komen bijna altijd uit inzendingen van de osu! community. De huidige Loved inzendingsformulieren en -lijsten kunnen gevonden worden via deze links:
+Leden van het Project Loved Team, genaamd **captains**, nomineren regelmatig beatmapsets voor een specifieke spelmodus. Deze sets komen bijna altijd uit inzendingen van de osu! community. De huidige Loved inzendingsformulieren en de lijst van alle ingezonden Loved beatmaps kunnen gevonden worden via deze links:
 
-- [osu!/osu!taiko/osu!catch formulier](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)
+- [osu!/osu!catch formulier](https://docs.google.com/forms/d/e/1FAIpQLSdbgHOVqMF8wQQKSdddW1JhC10ff6C7fb4JbEW7PBQTn9gAqg/viewform)
+- [osu!taiko formulier](https://docs.google.com/forms/d/e/1FAIpQLSclPWyjFByhHP45AtKD49y0RSl1TK5UOzD4dVdvjfJJQ1aCXQ/viewform)
 - [osu!mania formulier](https://docs.google.com/forms/d/e/1FAIpQLSeaGfoQNGMqw4qQcqRPItUZILh2fGwJR6ly6cZNY9OWPXkFhw/viewform)
-- [osu!/osu!taiko/osu!catch lijst](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit)
+- [osu!/osu!catch lijst](https://docs.google.com/spreadsheets/d/1HgHwtO3kIzT8R4ocEJMZTosADrGJRJOFL-TZI97tZS4/edit)
+- [osu!taiko lijst](https://docs.google.com/spreadsheets/d/1Nk96z_xat_7ypsDF1sCTDO4i_CnHarcrCbGoTmgwHHE/edit)
 - [osu!mania lijst](https://docs.google.com/spreadsheets/d/1sjkTwUSvQ5Me-6rK61rToTg2bU-yX9X29CXdzttvhtM/edit)
 
 *Opmerking: Als de toegang tot Google Forms beperkt is, kan je ook de [Project Loved Teamleden](/wiki/People/The_Team/Project_Loved_Team#team-members) contacteren om een map in te laten zenden namens jou.*
@@ -41,4 +41,4 @@ Er zijn geen strikte regels over welke beatmaps een captain moet nomineren voor 
 
 ## Meer informatie
 
-Alle organisatie en planning voor Project Loved wordt geregeld in het `#osu-loved`-kanaal van de [osu!dev Discord server](https://discord.gg/ppy). Eenderwelke opmerking, suggestie of vraag mag hier worden gesteld.
+Alle organisatie en planning voor Project Loved wordt geregeld in het `#osu-loved`-kanaal van de [osu!dev Discord server](https://discord.gg/ppy). Er is ook een `#project-loved`-kanaal in de [osu! Community Discord server](https://discord.gg/0Vxo9AsejDkGlk3H). Opmerkingen, suggesties of vragen mogen op deze plekken worden gesteld.

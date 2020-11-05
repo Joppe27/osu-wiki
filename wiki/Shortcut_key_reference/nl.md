@@ -1,6 +1,4 @@
 ---
-outdated: true
-outdated_since: 526e49f5b89310dbe8b7cdf8144cac713aaf770a
 tags:
   - hotkey
   - hotkeys
@@ -10,18 +8,18 @@ tags:
 
 # Sneltoetscombinaties
 
-osu! heeft een groot aantal sneltoetscombinaties die je in-game kunt gebruiken of wanneer je op een bepaalt scherm bent. De combinaties en hun functies zijn hieronder vermeld.
+osu! heeft een groot aantal sneltoetscombinaties die je in-game kunt gebruiken of wanneer je op een bepaald scherm bent. De combinaties en hun functies zijn hieronder vermeld.
 
 *Opmerking: Dit artikel geeft de standaard sneltoetscombinaties weer. Je kunt enkele hiervan wijzigen in de [opties](/wiki/Options).*
 
-## Game-wide
+## Over heel het spel
 
 Deze combinaties werken overal:
 
 | Sneltoets | Actie |
 | :-- | :-- |
 | `Alt` + `F4` | Sluit de game client af (zonder waarschuwing). Als je een beatmap aan het spelen bent of in de beatmap editor zit keer je terug naar het liedjes-selectie scherm. Als je in osu!direct zit, keer je terug naar het hoofdmenu. |
-| `Alt` + `Up/Down Arrow` | Verandert het hoofdvolume. Je kunt de linker- en rechter pijltjestoetsen gebruiken om te schakelen naar effect en muziek volumes. |
+| `Alt` + `Pijltje naar Boven/Onder` | Verandert het hoofdvolume. Je kunt de linker- en rechter pijltjestoetsen gebruiken om te schakelen naar effect en muziek volumes. |
 | `Ctrl` + `Alt` + `Shift` + `S` | Herlaadt de huidige skin. Als je deze combinatie indrukt terwijl je aan het spelen bent, herlaadt je skin pas nadat je terugkeert naar het liedjes-selectiescherm. |
 | `Ctrl` + `F11` | Toont/verbergt de frame times graph. Druk op `Ctrl` om deze te pauzeren. |
 | `F7` | Wissel van frameratelimiet. |
@@ -39,7 +37,7 @@ Deze combinaties werken overal:
 | Sneltoets | Actie |
 | :-- | :-- |
 | `Alt` + `Enter` | Zet de volledige scherm modus aan/uit. |
-| `Up/Down Arrow` | Verandert het hoofdvolume. Gebruik de linker- en rechter pijltjestoetsen om te schakelen naar effect- of muziekvolume. |
+| `Pijltje naar Boven/Onder` | Verandert het hoofdvolume. Gebruik de linker- en rechter pijltjestoetsen om te schakelen naar effect- of muziekvolume. |
 | `Esc` | Keer terug of annuleer |
 | `P`, `E`, of `O` | Opent het speelmenu |
 | `P` drie keer | Enter Solo. |
@@ -62,7 +60,7 @@ Deze combinaties werken overal:
 | `J` of `F6` | Opent het 'Spring naar' menu. |
 | `R` | Speelt een willekeurig lied af. |
 
-## Lied selectie
+## Song select
 
 *Opmerking: Deze combinaties werken niet allemaal in het liedjes-selectie scherm van de multi modus.*
 
@@ -84,16 +82,16 @@ Deze combinaties werken overal:
 | `Ctrl` + `F3` of `Ctrl` + `+` | Verhoogt de osu!mania scroll snelheid (terwijl je in de osu!mania mode zit). |
 | `Ctrl` + `F4` of `Ctrl` + `-` | Verlaagt de osu!mania scroll snelheid (terwijl je in de osu!mania mode zit). |
 | `Ctrl` + `Backspace` | Verwijdert het laatste woord in de zoekbalk. |
-| `Up/Down Arrow` | Selecteert de volgende beatmap omhoog/omlaag. |
-| `Left/Right Arrow` | Selecteert de volgende beatmapset omhoog/omlaag. |
+| `Pijlje naar Boven/Onder` | Selecteert de volgende beatmap omhoog/omlaag. |
+| `Pijltje naar Links/Rechts` | Selecteert de volgende beatmapset omhoog/omlaag. |
 | `Page Up/Down` | Scrollt de pagina omhoog/omlaag. |
 | `Enter` | Opent de huidige selectie, als je over een beatmapset of collectie groep hangt. Opent de geselecteerde moeilijkheid, als je een beatmap hebt geselecteerd. |
-| `Shift` + `Left/Right Arrow` | Opent de volgende/vorige groep. |
+| `Shift` + `Pijltje naar Links/Rechts` | Opent de volgende/vorige groep. |
 | `Shift` + `Enter` | Opent of sluit de geselecteerde groep. |
 
-### Game modifiers
+### Spelmodificators
 
-*Hoofdpagina: [Game modifiers](/wiki/Game_modifier)*  
+*Hoofdartikel: [Game modifiers](/wiki/Game_modifier)*  
 *Opmerking: Je moet in het game modifiers menu zitten om gebruik te kunnen maken van deze sneltoetsen.*  
 *Opmerking: Target practice (osu!standard), 1K en 2K (osu!mania), Co-op (osu!mania) en Mirror (osu!mania) hebben geen sneltoetsen.*
 
@@ -118,20 +116,20 @@ Deze combinaties werken overal:
 | `B` | Score V2 |
 | `3` tot `9` | 3K tot 9K (osu!mania) |
 
-## Speel modus
+## Speelmodus
 
 | Sneltoets | Actie |
 | :-- | :-- |
 | `+` of `-` | Past de lokale offset aan (houd `Alt` ingedrukt om de precisie te veranderen) |
 | `Esc` | Pauzeert de gameplay of keert terug naar het liedjes-selectiescherm als er een replay wordt bekeken of de Auto of Cinema mod aanstaat. |
-| `Space` | Skipt naar gameplay. |
+| `Spatie` | Skipt naar gameplay. |
 | `Tab` | Toont/verbergt de ranglijst. |
 | `Shift` + `Tab` | Toont/verbregt de in-game interface. |
 | `H` | Toont/verbergt de ranglijst en replay interface (wanneer een replay wordt bekeken of je in de toeschouwersmodus zit). |
 | `F3` of `F4` | Verandert de scroll speed voor osu!mania (kan alleen aan het begin van de beatmap). |
 | `Ctrl` + `R` | Houd dit kort ingedrukt om de huidige map opnieuw te proberen (skipt de intro). |
 
-## Replay mode
+## Replaymodus
 
 *Opmerking: Je moet gebruik maken van de cuttingdge release stream om deze te kunnen gebruiken.*
 
@@ -143,11 +141,11 @@ Deze combinaties werken overal:
 | `8` | Zet de afspeelsnelheid naar 3x. |
 | `9` | Zet de afspeelsnelheid naar 4x. |
 
-## Beatmap editor
+## Beatmap-editor
 
-*Hoofdpagina: [Beatmap Editor](/wiki/Beatmap_Editor)*
+*Hoofdartikel: [Beatmap Editor](/wiki/Beatmap_Editor)*
 
-### General
+### Algemeen
 
 De volgende combinaties werken overal in de beatmap editor:
 
@@ -156,20 +154,20 @@ De volgende combinaties werken overal in de beatmap editor:
 | `Z` | Springt naar de eerste noot of het begin van het lied. |
 | `V` | Springt naar de laatste noot of het einde van het lied. |
 | `X` | Speel vanaf het begin. |
-| `C` of `Space` | Pauzeert of gaat verder. |
-| `Left Arrow` of `Right Arrow` | Springt door het lied. |
-| `Up Arrow` of `Down Arrow` | Springt tussen timing points. |
-| `Shift` + `Left Arrow` of `Shift` + `Right Arrow` | Springt door het lied met 4x snelheid. |
+| `C` of `Spatie` | Pauzeert of gaat verder. |
+| `Pijltje naar Links` of `Pijltje naar rechts` | Springt door het lied. |
+| `Pijltje naar Boven` of `Pijltje naar onder` | Springt tussen timing points. |
+| `Shift` + `Pijltje naar Links` of `Shift` + `Pijltje naar Rechts` | Springt door het lied met 4x snelheid. |
 | `Ctrl` + `B` | Voegt een bladwijzer toe op de huidige tijdspositie. |
 | `Ctrl` + `Shift` + `B` | Verwijdert een bladwijzer op de huidige tijdspositie. |
-| `Ctrl` + `Left/Right Arrow` | Springt naar de volgende/vorige bladwijzer. |
+| `Ctrl` + `Pijltje naar Links/Rechts` | Springt naar de volgende/vorige bladwijzer. |
 | `Ctrl` + `L` | Keert terug naar de laatst opgeslagen staat (gedeeltelijk). Dit herlaadt de `.osu` en `.osb` bestanden. |
 | `Ctrl` + `Shift` + `L` | Keert terug naar de laatst opgeslagen staat (volledig). Dit herlaadt alles. |
 | `Ctrl` + `O` | Opent het moeilijkheid-selectie scherm. |
 | `Ctrl` + `S` | Slaat de beatmap op in de huidige staat. |
 | `Ctrl` + `N` | Vraagt of je alle hit-objecten wilt verwijderen. |
-| `Ctrl` + `Up/Down Arrow` | Verhoogt/verlaagt de afspeelsnelheid met 25%. |
-| `Ctrl` + `Shift` + `Up/Down Arrow` | Verhoogt/verlaagt de afspeelsnelheid met 5%. |
+| `Ctrl` + `Pijltje naar Boven/Onder` | Verhoogt/verlaagt de afspeelsnelheid met 25%. |
+| `Ctrl` + `Shift` + `Pijltje naar Boven/Onder` | Verhoogt/verlaagt de afspeelsnelheid met 5%. |
 | `F1` | Schakelt naar de [compose](/wiki/Beatmap_Editor/Compose) modus. |
 | `F2` | Schakelt naar de [design](/wiki/Beatmap_Editor/Design) modus. |
 | `F3` | Schakelt naar de [timing](/wiki/Beatmap_Editor/Timing) modus. |
@@ -196,7 +194,8 @@ De volgende combinaties werken overal in de beatmap editor:
 
 | Sneltoets | Actie |
 | :-- | :-- |
-| `Right Click` | Selecteert/deselecteert een nieuwe combo (wanneer je objecten plaatst) of verwijdert een object (als je aan het selecteren bent). |
+| `Dubbelklikken` | Springt naar de eindpositie van een cirkel of sliderend op de tijdlijn vanaf elke plek in het nummer. (osu!standard, osu!taiko, osu!catch) |
+| `Rechtsklikken` | Zet new combo aan of uit (wanneer je hitobjecten plaatst), of zet delete object aan of uit (wanneer je aan het selecteren bent |
 
 #### Algemeen
 
@@ -210,13 +209,14 @@ De volgende combinaties werken overal in de beatmap editor:
 | `Ctrl` + `C` | Kopieer. |
 | `Ctrl` + `V` | Plak. |
 | `Ctrl` + `D` | Dupliceert de selectie. Dit plakt de selectie 1 maat achter het laatst geselecteerde object. |
+| `Ctrl` + `M` | Verandert de snapdeler |
 | `Delete` | Verwijder. |
 | `1`, `2`, `3`, of `4` | Schakel tussen de plaats/selectie modus: select, circle, slider en spinner (osu!standard, osu!taiko of osu!catch). |
 | `1`, `2`, of `3` | Schakel tussen de plaats/selectie modus: select, circle en hold (osu!mania). |
 | `Ctrl` + `Alt` + `Mouse Wheel Up/Down` | Switch tussen plaats/selectie modus. |
 | `Ctrl` + `Shift` + `A` | Opent [AiMod](/wiki/Beatmap_Editor/AiMod). |
 
-#### Speel veld
+#### Speelveld
 
 | Sneltoets | Actie |
 | :-- | :-- |
@@ -231,7 +231,7 @@ De volgende combinaties werken overal in de beatmap editor:
 | `Ctrl` + `4` | Zet de grid size op large. |
 | `L` | Schakel tussen het vastzetten van hit-objecten. |
 
-#### Object manipulatie
+#### Objectmanipulatie
 
 | Sneltoets | Actie |
 | :-- | :-- |
@@ -245,11 +245,11 @@ De volgende combinaties werken overal in de beatmap editor:
 | `Ctrl` + `Shift` + `S` | Schaalt geselecteerde hit-objecten met een bepaald nummer (opent een dialoog). |
 | `Ctrl` + `Shift` + `D` | Creert polygons met een bepaald nummer punten (opent een dialoog). |
 | `Ctrl` + `Shift` + `F` | Verandert de geselecteerde slider in een cirkel stroom (opent een dialoog). |
-| `Ctrl` + `Left/Right/Up/Down Arrow` | Duwt de geselecteerde objecten in de gedrukte directie. (osu!standard, osu!taiko, osu!catch) |
-| `Ctrl` + `Left/Right Arrow` | Verplaatst objecten een kolom naar links of rechts. (osu!mania) |
-| `Ctrl` + `Up/Down Arrow` | Verplaatst objecten een tick in tijd omhoog of omlaag. (osu!mania) |
+| `Ctrl` + `Pijltje naar Links/Rechts/Boven/Onder` | Duwt de geselecteerde objecten in de gedrukte directie. (osu!standard, osu!taiko, osu!catch) |
+| `Ctrl` + `Pijltje naar Links/Rechts` | Verplaatst objecten een kolom naar links of rechts. (osu!mania) |
+| `Ctrl` + `Pijltje naar Boven/Onder` | Verplaatst objecten een tick in tijd omhoog of omlaag. (osu!mania) |
 
-#### Hitsounding
+#### Hitsounden
 
 | Sneltoets | Actie |
 | :-- | :-- |
@@ -264,7 +264,7 @@ De volgende combinaties werken overal in de beatmap editor:
 
 | Sneltoets | Actie |
 | :-- | :-- |
-| `Shift` + (`1`, `2`, `3`, `4`, `6`, or `8`) | Zet de [beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) naar 1/1, 1/2, 1/3, 1/4, 1/6 en 1/8 respectievelijk. |
+| `Shift` + (`1`, `2`, `3`, `4`, `5`, `6`, `7`, `8` of `9`) | Zet de [beat snap divisor](/wiki/Beatmap_Editor/Beat_Snap_Divisor) naar 1/1, 1/2, 1/3, 1/4, 1/5, 1/6, 1/7, 1/8 en 1/9 respectievelijk. |
 | `Shift` (Terwijl je de tijdlijn vasthebt) | Negeert de beat snap divisor snapping. |
 | `J` | Duwt de selectie een divisor terug. |
 | `K` | Duwt de selectie een divisor vooruit. |
@@ -286,5 +286,6 @@ De volgende combinaties werken overal in de beatmap editor:
 
 | Sneltoets | Actie |
 | :-- | :-- |
-| `T` | Zet de BPM en offset van een lied, wanneer je klikt naar het ritme van het lied. |
-| `Shift` Terwijl je de BPM en offset aanpaast | 4x zo'n grootte toename als normaal. |
+| `T` | Zet de BPM en offset van een lied, wanneer je klikt op het ritme van het lied. |
+| `Shift` terwijl je de BPM of offset aanpast | Verhoogt 5x zo snel als normaal. |
+| `Ctrl` terwijl je de BPM, offset of Slider Velocity aanpast | Verhoogt trager dan nomaal. |

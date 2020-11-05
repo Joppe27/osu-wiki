@@ -1,7 +1,5 @@
 ---
 no_native_review: true
-outdated: true
-outdated_since: 77ca2ba1c9070cde43e44918cd1b249f2266f2c8
 ---
 
 # osu!taiko Ranking Criteria
@@ -86,7 +84,7 @@ Moeilijkheidsgraad-specifieke regels en richtlijnen zijn enkel van toepassing op
 #### Regels
 
 - **Als een 1/2-patroon wordt gebruikt, moeten de patronen simplistisch blijven en worden gevolgd door een rustmoment.** Finish-noten mogen niet in patronen als zoals deze worden gebruikt. Voor nummers die een walsritme volgen is deze limiet 1/3.
-- **Patronen op snaps die sneller dan 1/2 zijn, zijn niet toegestaan.** Deze patronen zijn te complex voor beginnende spelers. Voor nummers die een walsritme volgen is deze limiet 1/3.
+- **Noten moeten minstens 1/2 van een maat uit elkaar staan.** Noten die minder ver uit elkaar staan zijn te complex voor beginnende spelers. Voor nummers die een walsritme volgen is deze limiet 1/3.
 
 #### Richtlijnen
 
@@ -106,11 +104,11 @@ Moeilijkheidsgraad-specifieke regels en richtlijnen zijn enkel van toepassing op
 #### Regels
 
 - **Als een 1/3-patroon wordt gebruikt, moeten de patronen simplistisch blijven en worden gevolgd door een rustmoment.** Finisher noten mogen niet in patronen als zodanig worden gebruikt.
-- **Patronen op snaps die sneller dan 1/3 zijn, worden niet toegestaan.** Deze patronen zijn te complex voor beginnende spelers.
+- **Noten moeten minstens 1/3 van een maat uit elkaar staan.** Noten die minder ver uit elkaar staan zijn te complex voor beginnende spelers.
 
-Als een Futsuu moeilijkheidsgraad vereist is en gebruikt wordt als de *laagste moeilijkheidsgraad* van een beatmapset, moet deze zich ook aan volgende regels houden:
+Als een Futsuu moeilijkheidsgraad nodig is en gebruikt wordt als de *laagste moeilijkheidsgraad* van een beatmapset, moet deze zich ook aan volgende regels houden:
 
-- **Patronen op snaps sneller dan 1/2 zijn niet toegestaan.** Deze patronen zijn te complex voor beginnende spelers. Voor nummers die een walsritme volgen, is deze limiet 1/3.
+- **Noten moeten minstens 1/2 van een maat uit elkaar staan.** Noten die minder ver uit elkaar staan zijn te complex voor beginnende spelers. Voor nummers die een walsritme volgen, is deze limiet 1/3.
 
 #### Richtlijnen
 
@@ -136,7 +134,7 @@ Als een Futsuu moeilijkheidsgraad vereist is en gebruikt wordt als de *laagste m
 #### Regels
 
 - **Finishernoten mogen niet gebruikt worden in 1/4-patronen of snellere patronen in deze moeilijkheidsgraad.** Het finishergebruik bij deze patronen is te ingewikkeld voor de spelers op dit niveau.
-- **Patronen op snaps die sneller dan 1/6 zijn, zijn niet toegestaan.** Deze patronen zijn te complex voor de doelgroep van deze moeilijkheidsgraad.
+- **Noten moeten minstens 1/6 van een maat uit elkaar staan.** Noten die minder ver uit elkaar staan zijn te complex voor de doelgroep van deze moeilijkheidsgraad.
 
 #### Richtlijnen
 
@@ -160,7 +158,7 @@ Als een Futsuu moeilijkheidsgraad vereist is en gebruikt wordt als de *laagste m
 
 - **Finishernoten mogen niet gebruikt worden in 1/6-patronen of snellere patronen in deze moeilijkheidsgraad.** Het finishergebruik bij deze patronen is te ingewikkeld voor de spelers op dit niveau.
 - **Finishernoten bij 1/4-patronen mogen alleen worden gebruikt aan het einde van dat patroon in deze moeilijkheidsgraad.** Andere plaatsingen dan deze kunnen de leesbaarheid voor het publiek op dit niveau te moeilijk maken.
-- **Patronen op snaps sneller dan 1/8 zijn niet toegestaan.** Deze patronen zijn te complex voor de doelgroep van deze moeilijkheidsgraad.
+- **Noten moeten minstens 1/8 van een maat uit elkaar staan.** Noten die minder uit elkaar staan zijn te complex voor de doelgroep van deze moeilijkheidsgraad.
 
 #### Richtlijnen
 

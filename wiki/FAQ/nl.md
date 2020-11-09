@@ -64,7 +64,7 @@ Op de *DS* zijn deze dé manier om het touchscreen (of de screen protector) te b
 
 ![osu! interface](/wiki/shared/osu-gameplay.jpg "In-game interface van osu!")
 
-De balk bovenaan links is de levensbalk. Deze zal met een vaste snelheid (afhankelijk van de moeilijkheidsgraad vastgelegd door de mapper(s)) dalen. Door de noten op het juiste moment te raken kan je het echter bijvullen. Een perfect getimede hit (een 300 of Geki) zal je leven meer doen stijgen dan een slecht getimede hit (50). Wanneer je mist wordt er een flinke hap uit je levensbalk genomen. 
+De balk bovenaan links is de levensbalk. Deze zal met een vaste snelheid (afhankelijk van de moeilijkheidsgraad vastgelegd door de mapper(s)) dalen. Door de noten op het juiste moment te raken kan je hem echter bijvullen. Een perfect getimede hit (een 300 of Geki) zal je health meer doen stijgen dan een slecht getimede hit (50). Wanneer je mist wordt er een flinke hap uit je levensbalk genomen. 
 
 Rechts naast de levensbalk is de totale score zichtbaar. Daaronder staat de nauwkeurigheid. Het cirkeltje dat naast de nauwkeurigheid staat (en onder de score) is een timer van de looptijd van de beatmap. Het nummer linksonder is de comboteller/scorevermenigvuldiger.
 
@@ -74,7 +74,7 @@ De standaardcontrols voor osu! zijn:
 
 | Muis | Toetsenbord | Tablet/Touchscreen |
 | :-- | :-- | :-- |
-| Linkermuisknop(M1) / Rechtermuisknop(M2) | `Z`(K1) / `X`(K2) | Scherm aanraken(M1) |
+| Klikken met linkermuisknop(M1) / Klikken met rechtermuisknop(M2) | `Z`(K1) / `X`(K2) | Scherm aanraken(M1) |
 
 De hitobjecten in osu! zullen eenderwelke invoer van het invoerapparaat accepteren, zolang het maar op tijd werd aangeklikt.
 
@@ -86,47 +86,153 @@ Als de [Auto Pilot](/wiki/Game_modifier/Autopilot) spelmodificator gebruikt is, 
 
 ## Alternatieve spelmodi
 
-### Hoe speel ik de Taiko-modus?
+### Van spelmodus veranderen
 
-Voor hen die er niet bekend mee zijn: Taiko no Tatsujin is een Taiko Drum ritme-spel gemaakt door Namco, dat draait om de simulatie van drummen op de maat van de muziek. In osu! kunnen beatmaps worden gespeeld in de stijl van Taiko no Tatsujin, mits het gebruik van de speciale "Taiko" spelmodus.
+![Interface om van modus te veranderen](/wiki/shared/Interface_mode.png "Moduswerkbalk in Song Selection (Solo)")
 
-Zoals osu! zelf, zijn er in Taiko ook drie elementen in speltechniek (een volledige uiteenzetting van de Taiko spelmodus kan teruggevonden worden [hier](/wiki/Game_mode/osu!taiko)):
+Klik op de `Mode`-knop om een **lijst van de spelmodi die in osu! beschikbaar zijn te openen**. Klik op de gewenste spelmodus en osu! zal veranderen naar de stijl van die spelmodus, samen met de rangschikkingen. Druk op de `Ctrl`-toets en `1` (![][osu! icon] *[osu!standard](/wiki/Game_mode/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*) op het toestenbord om snel van spelmodus te veranderen.
 
-#### De standaardbeat
+### Wat is osu!taiko?
 
-Deze ziet eruit als een rood-oranje of lichtblauwe cirkel. Als de cirkel rood-oranje is, moet je een van de toetsen indrukken die verbonden zijn met het binnenste deel van de Taiko trom (linkmuisknop, of anders een van de toetsen dat verschijnt in het optiemenu, dat aan het begin van de map zichtbaar is).
+*Volledige uitleg: [osu!taiko](/wiki/Game_mode/osu!taiko)*
 
-Voor de blauwe noten moet je de rechtermuisknop indrukken, of een van de toetsen voor de buitenring van de trom. De noten moeten ingedrukt worden wanneer ze aankomen aan de kleinere cirkel naast de trom, op de statusbalk van het speelveld.
+![osu!taiko-Interface](/wiki/shared/taiko-gameplay.jpg "De in-game interface van osu!taiko")
 
-Als de noot een GROTE cirkel is, mag je voor extra punten ook BEIDE helften van de binnenkant (bij een grote rood-oranje cirkel) of buitenkant (bij een grote lichtblauwe cirkel) tegelijkertijd indrukken.
+*[Taiko no Tatsujin](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)* is een Taiko Drum ritme-spel gemaakt door *Namco* (nu Namco Bandai), dat het spelen van de taikodrum op het ritme van de muziek simuleert. In osu! kunnen beatmaps gespeeld worden in de stijl van Taiko no Tatsujin door het gebruik van de "Taiko" spelmodus.
 
-#### Tromgeroffel
+#### Speelveld
 
-Dit ziet eruit als een gele balk. Je krijgt punten door veel noten te spelen op de maat van de muziek.
+![Taiko speelveld](/wiki/shared/Taiko_playfield.jpg "De in-game speelveldinterface van osu!taiko")
+
+Voor spelers met ervaring in *Taiko no Tatsujin*:
+
+- Geen chibidansers onderaan (kan enkel via storyboards)
+- De levensbalk moet minstens 50% vol zijn om de beatmap te kunnen slagen (dit wordt niet echt duidelijk aangegeven in de standaardskin; neem een kijkje in het [Skinoverzicht](https://osu.ppy.sh/community/forums/topics/686664) voor een betere osu!taiko skin)
+- *Kiai-tijd* activeert *"Go-Go Tijd"*
+  - Gameplay gimmicks zoals ballonnen of gevorkte paden werden niet geïmplementeerd in osu!taiko (enkel de basis)
+- Verschillen in achtergrondweergave
+  - osu!taiko-specifieke beatmaps hebben meestal hun eigen achtergrond, die het bovenste deel van het scherm leeg laten
+  - Een video of stilstaande achtergrond zal enkel het onderste deel van het scherm innemen
+  - Als er een storyboardelement is zal dit alle beschikbare ruimte op het scherm innemen, behalve de delen die belangrijk zijn tijdens de gameplay
+
+Voor spelers zonder ervaring: het scherm in de osu!taiko-modus is verdeeld in twee verschillende delen; het bovenenste deel bevat de gameplay-elementen terwijl het onderste deel een afbeelding of video voor de beatmap bevat. Bovenaan is een levensbalk die, niet zoals bij andere spelmodi, leeg begint en gevuld moet worden tot hij minstens halfvol is om de moeilijkheidsgraad te kunnen slagen. Onder de levensbalk, iets boven het midden van het scherm is er links een taikodrum en daarnaast een bewegende transportband die hitobjecten, van rechts naar links, door een witte beoordelingscirkel voert. Boven de taikodrum is staat de geanimeerde taikomascotte die zal reageren op de behaalde beoordelingen samen met de achtergrond bovenaan die van kleur verandert op basis van die beoordelingen. Ten laatste is er zoals gewoonlijk rechtsboven de score- en nauwkeurigheidsteller en de timer. 
+
+Merk op dat health drain uitgeschakeld is in osu!taiko waardoor dus enkel de hitobjecten de levensbalk beïnvloeden. Combo zal niet verbroken worden terwijl je speelt op een leeg speelveld. Anders dan bij osu! wordt de combo elke 50 opeenvolgende hits gevierd. De basisscore zal geboost worden na het behalen van een combo die een veelvoud van 10 is, maar deze verhogen stopt bij 100 combo (dit is de limiet voor de boost). Als de combo verbroken wordt zal de boost terug resetten naar de basisscore. Tijdens *Kiai-tijd* geeft elke hit 20% meer punten dan het normale aantal. De score de je krijgt voor elke hit verschijnt rechtsboven, onder de nauwkeurigheid in het rood.
+
+#### Taikonoten
+
+![Taiko hitcirkels](/wiki/shared/Taiko_hitcircles.jpg "osu!taiko noten in verschillende kleuren en maten")
+
+Alle taikonoten (of gewoon noten als kortere schrijfwijze) zien eruit als een rode of lichtblauwe cirkel. Deze cirkels heten respectievelijk Don (rode noten) en Katu (blauwe noten). 
+
+Als de cirkel een kleine rode noot is, druk dan een van de toetsen in die gebonden is aan het binnenste deel van de taikodrum, of sla op het groot plat oppervlak in het midden van de *TaTaCon*. Als het een blauwe noot is, druk dan een van de toetsen in die gebonden is aan het buitenste deel van de taikodrum, of sla op de zijnkanten van de *TaTacon*. Als de noot een **GROTE** cirkel is, druk of sla dan op beide kanten van de binnen- of buitenkant van drum, afhankelijk van de kleur van de noot, tegelijk om het aantal punten voor die hit te verdubbelen (als in plaats van een dubbele hit, een enkele correcte hit geslagen wordt, krijgt de speler het normaal aantal punten).
+
+De noten moeten ingedrukt worden wanneer ze aankomen in de kleinere cirkel naast de drum. Door een foute kleur of rood en blauw tegelijkertijd indrukken krijgt de speler een miss.
+
+#### Drumrolls
+
+![Taiko drumroll](/wiki/shared/Taiko_drumroll.jpg "Een osu!taiko drumroll")
+
+Druk de binnenste (of buitenste) drum doorlopend in op het ritme van de beatmap om punten te krijgen tot de drumroll eindigt. Voor **GROTE** noten, druk dan beide knoppen van de binnenste (of buitenste) drum tegelijk en doorlopend in tot de drumroll voltooid is. Let er wel op dat drumrolls minder invloedrijk gemaakt werden en er enkel punten verdiend kunnen worden door de kleine hitcirkels te raken, in plaats van zo snel mogelijk te drumrollen zoals in *Taiko no Tatsujin*.
+
+Drumrolls kunnen genegeerd worden zonder de levensbalk te doen dalen, omdat ze hebben helemaal geen invloed op de levensbalk. De punten die behaald konden worden tijdens de drumroll gaan dan wel verloren. Elke succesvolle hit op de kleine hitcirkels geeft een vaste score van 300 punten.
 
 #### Dendens
 
-Deze zien eruit als spinners, met een afteller die de tijd aanduidt die je nog hebt om het de denden te voltooien. Je moet de toetsen voor rood-oranje en lichtblauw afwisselend totdat je de denden voltooid hebt.
+![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "osu!taiko spinner (denden)"
+
+Druk de binnenste in buitenste drum **in volgorde** in (bv. rood, blauw, rood, blauw, rood, blauw...) tot de denden-teller 0 bereikt. Het maakt niet uit met welke kleur er begonnen wordt (er kan met blauw gestart worden). Als de denden niet voltooid wordt daalt de levensbalk met dezelfde hoeveelheid als 1 gemiste taikonoot, maar wordt de combo niet verbroken. Door de drums van dezelfde kleur na elkaar in te drukken zal de denden-teller niet naar beneden gaan, tot in plaats daarvan de andere kleur ingedrukt wordt.
+
+Dendens verhogen de comboteller en ook de levensbalk niet. Elke succesvolle denden hit geeft een vaste score van 300 punten, en het voltooien van een denden geeft dezelfde score als het voltooien van een perfecte(GREAT) grote noot.
 
 #### Bediening
 
-De standaardbediening voor de Taiko modus is:
+De standaardbediening voor osu!taiko is:
 
-Rood-oranje: linkermuisknop, X, C Lichtblauw: rechtermuisknop, Z, V
+| Type | Muis | Toetsenbord | TaTaCon |
+| :-- | :-- | :-- | :-- |
+| Rood | Klikken met linkermuisknop(L) | `X`(L) / `C`(R) | Plat oppervlak van de drum |
+| Blauw | Klikken met rechtermuisknop(L) | `Z`(L) / `V`(R) | Buitenste rand van de drum |
 
-Je kan je keyboardtoetsen instellen zoals het je zelf schikt, van de "Input" tab in het optiemenu.
+De positie van de in-game cursor doet er niet toe tijdens het spelen van osu!taiko beatmaps.
 
-Opmerking: de positie van je osu! cursor doet er niet toe wanneer je beatmaps in Taiko-modus speelt.
+Als de [Relax](/wiki/Game_modifier/Relax) spelmodificator gebruikt is, zal de scorebeoordeling enkel rekening houden met de timing van de hits (hits met de verkeerde kleur worden automatisch rechtgezet).
 
-### Wat is "Catch the Beat"?
+*TaTaCon* drumcontrollers werden hoofdzakelijk gemaakt voor de thuis-edities van *Taiko no Tatsujin* en *Taiko: Drum Master*.
 
-[Catch the Beat](/wiki/Game_mode/osu!catch) is de tweede speciale modus in het spel, behalve Taiko. In plaats van cirkels aanklikken, ga je nu de vanger onderaan het scherm verplaatsen om het vallende fruit op te vangen.
+### Wat is osu!catch?
 
-#### Bediening
+*Volledige uitleg: [osu!catch](/wiki/Game_mode/osu!catch)*
 
-Doorgaans gebruik je de pijltjes naar links en recht om de vanger te bewegen. De linkershifttoets indrukken tegelijk met een van de pijltjes zal je vanger doen hollen in die richting (aangegeven door een heldere gloed rond de vanger).
+![osu!catch-Interface](/wiki/shared/catch-gameplay.jpg "De in-game interface van osu!catch")
 
-Wanneer je gebruikmaakt van de "Relax" mod, beheers je de bewegingen van de vanger met je muis.
+osu!catch is de tweede spelmodus die aan osu! werd toegevoegd, na de osu!taiko spelmodus.
+
+In plaats van cirkels op het ritme van de muziek aan te klikken, bestuurt de speler een vanger aan de onderkant van het scherm, terwijl het fruit vanuit de bovenkant van het scherm valt.
+
+#### De basis uitgelegd
+
+##### Speelveld
+
+![Verschil tussen het osu!catch speelveld bij CS2 en CS7](/wiki/shared/Catch_Playfield_27.jpg "Verschillen van het osu!catch speelveld gebaseerd op CS")
+
+Hoe sterk het speelveld ingezoomd wordt, hangt of van de CS (Circle Size) instelling. Een lagere CS betekent dat het speeldveld veel meer ingezoomd zal zijn en er dus minder bewegingsruimte is voor de vanger, en een hogere CS betekent dat het speelveld meer uitgezoomd zal zijn waardoor er meer bewegingsruimte voor de vanger vrijkomt.
+
+De vanger kan van links naar rechts bewegen, terwijl het fruit van boven naar beneden valt. De vanger kan niet voorbij de linker- en rechtermuren van het speelveld bewegen.
+
+Al het fruit zal op het bord blijven liggen tot een combo eindigt, waarna het fruit uit het bord zal botsen. De timing en waar het fruit op het bord valt maakt niet uit; de speler krijgt ofwel de volledige punten voor een succesvole vangst of geen punten voor een miss.
+
+##### Fruit
+
+![Fruit](/wiki/shared/Catch_fruits.jpg "osu!catch-fruit")
+
+Zorg ervoor dat het fruit op het het bord en niet ernaast valt om het te vangen. Het verzameld fruit geeft altijd 300 punten per stuk, verhoogt de combo met 1 en verschijnt als 300 op het resultatenscherm.
+
+##### Fruitsporen (Fruit trails)
+
+![Fruitsporen](/wiki/shared/Catch_trails.jpg "osu!catch-fruitsporen")
+
+Een typisch fruitspoor zal twee stukken fruit (aan het begin en het einde), droplets (sliderpad), juice drop (slider ticks) en een extra stuk fruit voor elke omgekeerde pijl die een tegengesteld sliderpad aangeeft bevatten. Droplets geven 10 punten per stuk en worden aangeduid met 50 op het resultatenscherm. Juice drops geven 30 punten per stuk, verhogen de combo met 1 en verschijnen als 100 op het resultatenscherm.
+
+Het missen van een juice drop zal dus de combo verbreken (omdat het telt als een slider tick), maar het missen van een droplet verbreekt de combo niet. Gemiste droplets zullen niet getoond worden op het resultatenscherm in de osu! client, maar zullen wel op de rangschikking van de website getoond worden als een *Miss Droplet*, omdat ze een grote invloed hebben op de nauwkeurigheid (droplet gemist is een 50) en score (10 punten minder voor elke gemiste droplet).
+
+##### Bananen
+
+![Bananen](/wiki/shared/Catch_bananas.jpg "osu!catch-bananen")
+
+Hier zullen grote bananen naar beneden vallen, die soms (niet altijd) kleiner worden terwijl ze naar beneden vallen. Elke verzamelde banaan zal altijd een vaste score van 1100 geven, ongeacht mods of combo.
+
+De bananen kunnen genegeerd worden zonder de levensbalk te doen dalen. De extra punten en recuperatie van de levensbalk door het verzamelen van de bananen gaan dan wel verloren. [Auto](/wiki/Game_modifier/Auto) mod gaat nog een stapje verder en vangt *alle* bananen zonder enige mislukking.
+
+##### Hyperfruit
+
+![Hyperfruit, en de vanger die hyperdasht door daarvoor hyperfruit te verzamelen](/wiki/shared/Catch_hyperfruits.jpg "osu!catch-hyperfruit")
+
+Hyperfruit is speciaal fruit dat zal verschijnen om de vanger te helpen het volgende fruit te vangen als het onmogelijk is om dit te doen met een normale dash doordat er te weinig tijd is. Al het hyperfruit heeft een kenmerkende rode kleur die standaard rond het hyperfruit verschijnt.
+
+Door het hyperfruit te vangen wordt de dash van de vanger geüpgraded naar een *hyperdash* (net snel genoeg om het volgende stuk fruit te kunnen vangen), de vanger wordt gloeiend rood en laat een tijdelijke *afterimage* achter op het punt waar ze het fruit vingen, tot er een volgend stuk fruit gevangen of gemist wordt waarna de vanger terug normaal wordt.
+
+#### De vanger besturen
+
+- Standaard, de linker- `<-`(L) en rechter- `->`(R) pijltjestoetsen om de vanger te bewegen.
+- Druk de `leftShift`(D)-toets in en houd ingedrukt tijdens het indrukken van één van de pijltjestoetsen om de vanger in die richten te laten *dashen* tegen x2.0 de normale snelheid (aangegeven door een **heldere gloed** van de vanger).
+  - Klik en houd in plaats daarvan de Linkermuisknop(D) ingedrukt op de muis om ook het dashen te activeren.
+
+De positie van de in-game cursor doet er normaal gezien niet toe tijdens het spelen van osu!catch, behalve als de "Relax" mod gebruikt is, want dan wordt de vanger bestuurd door middel van muisbewegingen. Dit maakt de score wel unranked (omdat het de enige uitdaging van osu!catch verwijderd; de vaste snelheid waarop de vanger beweegt en de controle van het vangerbord).
+
+### Wat is osu!mania?
+
+*Volledige uitleg: [osu!mania](/wiki/Game_mode/osu!mania)*
+
+![osu!mania-Interface](/wiki/shared/mania-gameplay.jpg "De in-game interface van osu!mania")
+
+osu!mania is de derde spelmodus die aan osu! werd toegevoegd, na de osu!taiko en osu!catch spelmodi.
+
+Deze modus wordt veel gebruikt in bijna alle belangrijke ritmespellen en een goede handcoördinatie is vereist. De noten (hun hoeveelheid hangt af van de BPM en moeilijkheidsgraad) bewegen via een transportband en de speler moet de juiste toets voor de juiste noot op het juiste moment indrukken. Hoewel deze spelmodus oorspronkelijk gemaakt was als een imitatie op de *Beatmania*-stijl, laat osu!mania het ook toe om het aantal toesten te veranderen of het speelveld verticaal om te draaien (dit betekent dat het aangepast kan worden om er meer uit te zien als *Guitar Hero* [5 toetsen] of *Dance Dance Revolution* [4 toetsen] enzovoort).
+
+Bij het converten van een niet-specifieke beatmap zal het standaard toetsenbereik tussen de 4 en 7 toetsen liggen.
+
+
 
 ## Veelvoorkomende problemen
 

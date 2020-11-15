@@ -139,7 +139,7 @@ Drumrolls kunnen genegeerd worden zonder de levensbalk te doen dalen, omdat ze h
 
 #### Dendens
 
-![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "osu!taiko spinner (denden)"
+![Taiko spinner](/wiki/shared/Taiko_spinner.jpg "osu!taiko spinner (denden)")
 
 Druk de binnenste in buitenste drum **in volgorde** in (bv. rood, blauw, rood, blauw, rood, blauw...) tot de denden-teller 0 bereikt. Het maakt niet uit met welke kleur er begonnen wordt (er kan met blauw gestart worden). Als de denden niet voltooid wordt daalt de levensbalk met dezelfde hoeveelheid als 1 gemiste taikonoot, maar wordt de combo niet verbroken. Door de drums van dezelfde kleur na elkaar in te drukken zal de denden-teller niet naar beneden gaan, tot in plaats daarvan de andere kleur ingedrukt wordt.
 
@@ -232,41 +232,307 @@ Deze modus wordt veel gebruikt in bijna alle belangrijke ritmespellen en een goe
 
 Bij het converten van een niet-specifieke beatmap zal het standaard toetsenbereik tussen de 4 en 7 toetsen liggen.
 
+De speler kan door de [xK](/wiki/Game_modifier/xK) spelmodificator het aantal toetsen manueel instellen van 1 tot 9 toetsen, weliswaar met een verlaagde score. Deze mod werkt echter niet met beatmaps de specifiek voor osu!mania gemaakt werden.
 
+Door de [Co-Op](/wiki/Game_modifier/Co-op) spelmodificator te gebruiken wordt het speelveld in twee gedeeld, wordt het Co-Op bedieningssysteem gebruikt en kan de speler gebruik maken van 2 tot 18 toetsen, met een verlaagde score. Merk wel op dat het gekozen aantal toetsen niet verdubbeld zal worden bij specifieke osu!mania-beatmaps zoals normaal, in plaats daarvan zal het speelveld in twee verdeeld worden (linkerdeel krijgt voorrang als het aantal toetsen oneven is), het bedieningssysteem van Co-Op gebruikt worden en is er geen scoreverlaging.
 
-## Veelvoorkomende problemen
+#### De basis uitgelegd
 
-### Mijn gerankte score stijgt niet! Is dit een bug?
+##### Speelveld
 
-Nee, dat is het niet.
+![osu!mania-speelveld](/wiki/shared/Mania_playfield.jpg "De in-game speelveldinterface van osu!mania")
 
-Kijk vooreerst na of je verbonden bent met het internet en of je jezelf hebt ingelogd. Scores die je haalt zonder ingelogd te zijn, worden niet doorgestuurd en tellen daarom ook niet mee in je gerankte score. Dergelijke scores worden alleen neergezet op je locale scorebord. Het is niet mogelijk om je locale scores door te sturen om ze nadien bij je gerankte score te doen tellen.
+Standaard zullen de noten zich van boven naar beneden over de transportband bewegen (de startpijl toont in welke richting de noten zullen bewegen), met de toetsenbediening onderaan en de beoordelingslijn daar net boven. De richting kan ook omgekeerd worden zodat de noten van onder naar boven bewegen door in het `Opties`-menu op de `osu!mania indeling`-knop te drukken en de `Spiegel het speelveld verticaal (DDR stijl)`-instelling manueel in te schakelen.
 
-Gerankte score telt enkel de beste score voor elke liedjesset, niet voor elke moeilijkheidsgraad.
+De levensbalk bevindt zich aan de rechterkant van de transportband. Merk op dat health drain uitgeschakeld is in osu!mania, enkel de hitobjecten hebben dus een invloed op de levensbalk. De combo zal niet verbroken worden wanneer er toetsen ingedrukt worden op een leeg speelveld.
 
-Hier even een voorbeeld... ik heb de volgende punten op drie maps:
+De **scrollsnelheid** van de noten kan aangepast worden door `Ctrl` (of `Shift`) en `+` (sneller) / `-` (trager) tegelijkertijd in te drukken, of door gewoon op `F3` (sneller) / `F4` (trager) te drukken.
 
-- [BRANDY - The Festival of Ghosts 2](https://osu.ppy.sh/beatmapsets/3302)
-  - Relaxing: 3,000,000
-  - **DaRRi MIx: 5,000,000**
-- [ZZ - Samurai Blue](https://osu.ppy.sh/beatmapsets/271)
-  - Easy: 500,000
-  - **Normal: 1,000,000**
-  - Hard: geen score
-- [Matchbox 20 - How Far We've Come](https://osu.ppy.sh/beatmapsets/1264)
-  - **Normal: 2,000,000**
-  - Hard: 1,500,000
+##### Noten
 
-Mijn totale beste score van elke set is 5,000,000 + 1,000,000 + 2,000,000 = 8,000,000, dat dus mijn totale gerankte score is.
+![Noten in osu!mania](/wiki/shared/Mania_notes.jpg "osu!mania noten")
 
-Tevens tellen goedgekeurde ('approved') maps NIET mee bij je gerankte score, maar je precisie voor deze maps wel. Goedgekeurde maps onderscheiden zich met het ![](/wiki/shared/status/ranked.png)"vlam"-icoontje in plaats van het ![](/wiki/shared/status/approved.png)"hart"-icoontje.
+Noten zijn zoals de hitcirkels van osu!mania. De vallende noten moeten ingedrukt worden op de beoordelingslijn, door op de toets die overeenkomt met de juiste noot te drukken. Als er meerdere noten tegelijkertijd naar beneden vallen moeten de toetsen die met die noten overeenkomen ook tegelijkertijd ingedrukt worden. Er zal een score getoond worden wanneer er een toets, die overeenkomt met een noot op het juiste moment (net op de beoordelingslijn) ingedrukt wordt.
 
-### Kan ik Kiai-tijd uitschakelen?
+##### Hold-noten
 
-NEEN.
+![Holdnoten in osu!mania](/wiki/shared/Mania_holdnotes.jpg "osu!mania holdnoten")
 
-### De maps zijn te moeilijk! Waar vind ik er gemakkelijkere?
+Hold-noten zijn zoals de sliders van osu!mania. Wanneer de hold-noot de beoordelingslijn bereikt, druk dan de juiste toets in, houd vast en laat los op het einde van de hold-noot.
 
-Pokebis heeft een set beatmaps bijeengebracht die geschikt zijn voor beginners om te spelen. Je kan ze hier terugvinden: [Link](https://osu.ppy.sh/community/forums/topics/5456).
+De levensbalk wordt langzaam maar zeker bijgevuld terwijl de hold-noot ingehouden wordt. Afhankelijk van het nummer en de beatmap is het mogelijk dat er andere (hold-)noten ingedrukt moeten worden terwijl de vorige hold-noot nog ingehouden wordt.
 
-Daarnaast kan je de de geclassifiëerde ('ranked') beatmaps ook per moeilijkheidsgraad sorteren. De gemakkelijkste staan dan bovenaan de lijst.
+#### Bediening
+
+![Standaard toetsenindeling van osu!mania (Opties->Invoer)](/wiki/shared/Mania_key_layouts.jpg "De toetsenindeling van osu!mania")
+
+Er zijn twee indelingsstijlen, *Symmetrisch* en *Links naar Rechts*.
+
+- De *Symmetrische* stijl imiteert de toetsenindeling van *DJMAX*, waar de middelste toets `Spatie` is om het gevoel van op een pedaal te stappen zoals in de arcade-versie na te bootsen.
+  - De middelste toets komt overeen met de middelste kolom (enkel oneven nummers bij om het even welk aantal toetsen) en de andere kolommen komen overeen met de toetsen die eronder staan.
+- De *Links naar Rechts*-stijl imiteert de toetsenindeling van *Beatmanaia IIDX*, waar de eerste kolom overeenkomt met *toets1*, de tweede kolom overeenkomt met *toets2*, enzovoort.
+
+*Symmetrische* toetsenindeling (Voor *DJMAX*-stijl)
+
+- Voor *linker*hand-knoppen — (K1)`A`, (K2)`S`, (K3)`D`, (K4)`F`
+- Voor *rechter*hand-knoppen — (K6)`J`, (K7)`K`, (K8)`L`, (K9)`;`.
+- *Middenste* knop — (K5)`Spatiebalk`. \[enkel oneven toetsen\]
+- De *Speciale* knop — `linkerShift` en `linkerCtrl`.
+
+| Toets | L | C | R |
+| :-: | :-- | :-: | --: |
+| 4K | K3, K4 | - | K6, K7 |
+| 5K | K3, K4 | K5 | K6, K7 |
+| 6K | K2, K3, K4 | - | K6, K7, K8 |
+| 7K | K2, K3, K4 | K5 | K6, K7, K8 |
+| 8K | K1, K2, K3, K4 | - | K6, K7, K8, K9 |
+
+*Links naar rechts*-toetsenindeling (Voor *Beatmania IIDX*-stijl)
+
+- Van onder naar boven en dan terug van onder naar boven enzovoort: (K1)`Z`, (K2)`S`, (K3)`X`, (K4)`D`, (K5)`C`, (K6)`F`, (K7)`V`, (K8)`G`, (K9)`B` \[K9 wordt niet gebruikt\]
+- De *Speciale* knop — `linkerShift` en `linkerCtrl`.
+
+| Toets | Indeling |
+| :-: | :-- |
+| 4K | K1, K2, -, K4, K5 |
+| 5K | K1, K2, K3, K4, K5 |
+| 6K | K1, K2, K3, K4, K5, K6 |
+| 7K | K1, K2, K3, K4, K5, K6, K7 |
+| 8K | K1, K2, K3, K4, K5, K6, K7, K8 |
+
+---
+
+## Puntentelling
+
+*Gedetailleerde informatie over de puntentelling kan teruggevonden worden op de pagina van elke spelmodus zelf of op [de Scorepagina](/wiki/Score)).* 
+
+*Gedetailleerde informatie over het berekenen van de nauwkeurigheid kan teruggevonden worden op de pagina van elke spelmodus zelf of op [de Nauwkeurigheidspagina](/wiki/Accuracy).*
+
+### Rangen
+
+#### ![][osu! icon] osu!
+
+| Rang | Voorwaarde |
+| :-: | :-- |
+| SS | 100% Nauwkeurigheid. |
+| S | Meer dan 90% 300s, minder dan 1% 50s en geen misses. |
+| A | Meer dan 80% 300s en geen misses **OF** meer dan 90% 300s. |
+| B | Meer dan 70% 300s en geen misses **OF** meer dan 80% 300s. |
+| C | Meer dan 60% 300s |
+| D | Al de rest. |
+
+#### ![][osu!taiko icon] osu!taiko
+
+| Rang | Voorwaarde |
+| :-: | :-- |
+| SS | 100% Nauwkeurigheid. |
+| S | Meer dan 95% nauwkeurigheid (90+% GREATs, of minder dan 1 GOOD voor elke 10 noten). |
+| A | Meer dan 90% nauwkeurigheid (80+% GREATs, of minder dan 1 GOOD voor elke 5 noten). |
+| B | Meer dan 80% nauwkeurigheid (70+% GREATs, of minder dan 1 GOOD voor elke 3.33 noten). |
+
+#### ![][osu!catch icon] osu!catch
+
+| Rang | Voorwaarde |
+| :-: | :-- |
+| SS | 100.00% Nauwkeurigheid. |
+| S | 98.01% tot 99.99% Nauwkeurigheid (een 'S'-rang is zelfs met meerdere misses nog mogelijk, zoals in osu!mania). |
+| A | 94.01% to 98.00% Nauwkeurigheid. |
+| B | 90.01% to 94.00% Nauwkeurigheid. |
+| C | 85.01% to 90.00% Nauwkeurigheid. |
+| D | Nauwkeurigheid van onder de 85.00%. |
+
+#### ![][osu!mania icon] osu!mania
+
+| Rang | Voorwaarde |
+| :-: | :-- |
+| SS | 100% Nauwkeurigheid (enkel MAX en/of 300). |
+| S | Meer dan 95% nauwkeurigheid (een 'S'-rang is zelfs met meerdere misses nog mogelijk, zoals in osu!catch). |
+| A | Meer dan 90% nauwkeurigheid. |
+| B | Meer dan 80% nauwkeurigheid. |
+| C | Meer dan 70% nauwkeurigheid. |
+| D | Al de rest. |
+
+#### Alle spelmodi
+
+**Speciale rangen:**
+
+- Silver SS (SSH) = Normale SS-rang terwijl de *[Hidden](/wiki/Game_modifier/Hidden)* en/of *[Flashlight](/wiki/Game_modifier/Flashlight)* mod ingeschakeld is.
+- Silver S (SH) = Normale SS-rang terwijl de *[Hidden](/wiki/Game_modifier/Hidden)* en/of *[Flashlight](/wiki/Game_modifier/Flashlight)* mod ingeschakeld is.
+
+**Betreffende de *Ranks*-sectie van de profielpagina:**
+
+- Behaalde rangen zullen op de profielpagina onder General->Ranks te vinden zijn mits de in-game osu!account met het internet en de Bancho-server verbonden was terwijl de score behaald werd.
+  - **Offline** behaalde scores, zelfs als de osu!account ingelogd is, **tellen niet mee**.
+- **De rangen die op de profielpagina verschijnen hangen af van de ranked/goedgekeurde topscore voor een bepaalde moeilijkheidsgraad van een beatmap dus niet de beatmap in het geheel.**
+  - Als een beatmap drie(3) ranked moeilijkheidsgraden heeft, en er een SS behaald werd op alle drie in osu!catch; zullen er drie(3) SS'en verschijnen in de osu!catch Ranks-sectie, niet slechts één(1) SS voor de hele beatmapset.
+  - Als er echter een nieuw record behaald wordt met een S-rang (via een betere spinnerbonus of spelmodificators) op een ranked moeilijkheidsgraad waarvoor eerder een SS werd behaald, zal de SS-teller met één(1) afnemen en de S-teller met één(1) toenemen.
+  
+## Prestatiepunten
+
+*Volledige uitleg: [Prestatiepunten](/wiki/Performance_Points)*
+
+Prestatiepunten(pp) hebben als doel een betere rangschikking te maken voor een doorlopend spel als osu!. Het heeft als doel de focus voor de rangschikking te verleggen van het aantal tijd dat aan osu! wordt gespendeerd naar de eigenlijke vaardigheden van de speler. Prestatiepunten zijn sterk gebaseerd op de moeilijkheid van een beatmap, die bepaald wordt door een speciaal algoritme voor elke spelmodus. Gebaseerd op deze moeilijkheid worden scores gewogen en krijgen ze een pp-waarde toegewezen. De prestatieranschikking over een hele spelmodus wordt voornamelijk gebaseerd op de prestaties van de speler op individuele beatmaps. De makkelijkste manier om te verbeteren is om goede scores te halen op moeilijke beatmaps en door er meer te spelen. Let er wel op dat spelmodi apart geteld worden; door osu!, osu!taiko, osu!catch of osu!mania te spelen zal enkel de pp-waarde voor de betreffende gamemode stijgen.
+
+Bekijk bij vragen eerst de [wikipagina over pp](/wiki/Performance_Points).
+
+## Veelvoorkomende problemen en vragen
+
+### Algemeen
+
+#### Ik denk dat ik een bug gevonden heb! Waar kan ik dit melden?
+
+Als je een algemeen technisch probleem hebt, of als je niet zeker bent of het probleem een bug is of niet kan je een post plaatsen op het [Help forum](https://osu.ppy.sh/community/forums/5). Als je denkt dat je een specifiek, kritiek probleem gevonden hebt in osu! kan je een issue maken in de [osu-stable-issues GitHub repository](https://github.com/ppy/osu-stable-issues/issues). Kijk eerst na of niemand anders jouw probleem al gemeld heeft voordat je je post plaatst.
+
+#### Waar kan ik beatmaps vinden?
+
+*Volledige uitleg: [Beatmaps](/wiki/Beatmaps)*
+
+Op de hoofdpagina van de website onder *[Beatmaps](https://osu.ppy.sh/beatmapsets)*. Vergeet niet op de website in te loggen met een osu!account, daarna wordt het downloaden van beatmaps pas toegestaan.
+
+#### Kan ik Kiai-tijd uitschakelen?
+
+**Neen**, want in tegenstelling tot video's werd dit geïntegreerd in het spel (als een deel van de hitobjecten). Het kan dus niet uitgeschakeld worden.
+
+#### De beatmaps zijn te moeilijk voor mij! Waar kan ik makkelijkere beatmaps vinden?
+
+**Pokebis** heeft voor osu! een verzameling van beatmaps, geschikt voor beginners, samengesteld. Ze kan [hier](https://osu.ppy.sh/community/forums/topics/5456) teruggevonden worden.
+
+**OnosakiHito** heeft voor osu!taiko een verzameling van beatmaps om osu!taiko te leren samengesteld. Ze kan [hier](https://osu.ppy.sh/community/forums/topics/175867) teruggevonden worden.
+
+**Kingkevin30** heeft een goede lijst van osu!catch beatmaps waaruit osu!catch geleerd kan worden samengesteld. Hij kan [hier](https://osu.ppy.sh/community/forums/topics/131067) teruggevonden worden.
+
+**Entozer** heeft een lijst van osu!mania beatmaps, gesorteerd op moeilijkheidsgraad, samengesteld en **Drace** heeft een overzicht van de gameplay, voor beginners, gemaakt. Ze kunnen [hier](https://osu.ppy.sh/community/forums/topics/147552) (**Entozer**'s beatmapgids) en [hier](https://osu.ppy.sh/community/forums/topics/146615) (**Drace**'s verbeteringsgids) teruggevonden worden.
+
+De beatmaplijst op de website heeft ook een functie waardoor de [ranked beatmaps op moeilijkheidsgraad gesorteerd kunnen worden](https://osu.ppy.sh/beatmapsets?sort=difficulty_asc). De makkelijkste maps staan bovenaan in de lijst.
+
+**Rivenation** heeft een project, genaamd [osu!search](http://osusearch.com), ontwikkeld voor het [geavanceerd zoeken van beatmaps](https://osu.ppy.sh/community/forums/topics/380485). Deze website heeft niet alleen de functies van de officiële beatmapijst, maar heeft ook enkele filters om specifieke voorwaarden in te stellen. Deze onofficiële beatmaplijst kan bereikt worden via [deze link](http://osusearch.com).
+
+#### Wat doet het level op mijn profiel?
+
+**Helemaal niets**. Er is geen verschil tussen een Level 100-speler en een Level 1-speler, behalve de vaardigheid en ervaring van de speler zelf in die bepaalde spelmodus. Er zijn geen nadelen voor spelers met een laag level en geen voordelen voor spelers met een hoger level (behalve eventueel ervaring en hardware).
+
+Het level wordt gebaseerd op de totale score die behaald wordt tijdens het online spelen, ongeacht of je de beatmap slaagt of faalt. [De formule hiervoor kan hier teruggevonden worden](/wiki/Score).
+
+#### Waarom verschillen de statistieken op mijn profiel van die in-game?
+
+Denk eraan dat osu! vier spelmodi heeft, dus misschien heb je de verkeerde spelmodus geselecteerd.
+
+![Profiel_Modus_Knoppen](img/Profile_mode_buttons.gif "Knoppen voor de profielmodus")
+
+#### Hoe verander ik de standaardtoetsen voor een bepaalde spelmodus?
+
+*Volledige uitleg: [Opties](/wiki/Options)*
+
+![Optiemenu met iconen](/wiki/shared/Options_quickicons.jpg "Iconen in de opties")
+
+Dit kan via het *Input*-icoon in het *Opties*-menu zoals hierboven en daarna het toetsenbord-gedeelte zoals hieronder.
+
+![Toetsenbord-gedeelte in de opties](/wiki/shared/Options_keyboard.jpg "Input-icoon in de opties, Toetsenbord-gedeelte")
+
+#### Game over? Waar ging het mis?
+
+*Volledige uitleg: [Replay](/wiki/Replay)*
+
+Druk op de `F1`-toets na het falen van een beatmap om een herhaling van de gameplay af te spelen. De replay eindigt wanneer het scherm verduistert en er een osu!logo in het midden vershijnt in plaats van het game over-scherm. Houd de grave/tilde-toets (kan veranderd worden in het Opties-menu; via *Configureer toetsen* en **Quick Retry (hold briefly)**) of `Ctrl`+`R` even ingedrukt om de replay opnieuw te bekijken.
+
+De `Esc`-toets kan gebruikt worden om terug te keren naar Song Selection vanuit een replay. Het is niet mogelijk om de beatmap opnieuw te proberen vanuit het replay-scherm (keer hiervoor eerst terug naar Song Select). Replays werken op dit moment enkel wanneer een beatmap gefaald werd in Solo-modus. Sinds 24 augustus 2020 kunnen spelers gefaalde replays opslaan door de `F2`-toets in te drukken op het game over-scherm.
+
+#### Heeft osu! sneltoetscombinaties?
+
+*Volledige lijst: [Sneltoetsen](/wiki/Shortcut_key_reference)*
+
+Wanneer de `Insert`-toets ingedrukt wordt (met standaard toetsenbordinstellingen) zal osu! gepauzeerd, gedempt en verborgen worden in de 'tray' van de *Windows*-taakbalk. Er kan teruggekeerd worden naar osu!, in dezelfde staat als voor er op de toets gedrukt werd, door op het icoontje te klikken. Deze toets wordt de **Boss key** genoemd, en kan aangepast worden in `Configureer toetsen` (in `Opties`, bij het toetsenbord-gedeelte), aan het einde van de *Algemeen*-sectie.
+
+Een andere belangrijke sneltoets is `Alt`+`Enter`. Deze toetsencombinatie zet de volledig scherm-modus aan of uit. Dit werkt niet tijdens de gameplay of in Multi.
+
+#### Wat moet ik back-uppen wanneer ik osu! opnieuw installeer?
+
+Het korte antwoord op deze vraag is de hele `osu!`-map, inclusief verborgen bestanden. Kopieer en voeg de oude `osu!` map samen met die van het nieuwe apparaat na het uitvoeren van `osu!install.exe` en het voltooien van de osu! installatie. Als er gevraagd wordt om `.dll` of `.exe`-bestanden samen te voegen, sla deze bestanden dan over. Sta het samenvoegen wel toe voor alle andere bestanden, inclusief `.cfg` en `.db`-bestanden.
+
+#### Kan ik osu! op mijn mobiel apparaat spelen?
+
+*Volledige lijst: [Spelmodi in de External Ports-sectie](/wiki/Game_mode)
+
+osu! ondersteunt op dit moment geen mobiele platformen.
+
+Er zijn echter wel een aantal onofficiële overzettingen van osu! en één officieel spin-off spel voor iOS, dat haar eigen ranking- en accountsysteem gebruikt.
+
+De belangrijkste overzettingen zijn:
+
+- ![][osu! icon] opsu! \[Windows/OS X/Linux/Android\]:
+  Java-overzetting van osu!, ontwikkeld door **itdelatrisu**. **fluddokt** zorgde voor de Android-versie.
+- ![][osu!taiko icon] T-Aiko! v2 \[Android/iOS\]:
+  osu!taiko-modus overgezet door **low.moe (Guy-kun) team** met elke dag een nieuwe reanked challenge en een verfijnde T-Aiko! rankings.
+- ![][osu! icon] osu!stream \[iOS\]:
+  Ervaar de nieuwe spin-off van de osu! spelmodus voor iOS, ontwikkeld door het osu! team vanaf nul.
+  
+### osu!
+
+#### Waarom zie ik willekeurige witte lijnen op mijn scherm terwijl ik osu! aan het spelen ben?
+
+Zorg ervoor dat de smoke/skywriting-toets niet dezelfde is als de klik-toets.
+
+![osu! smoke-effect](/wiki/shared/osu_smoke.jpg "Gebruik van smoke")
+
+![osu! smoke-instellingen](/wiki/shared/osu_smoke_set.jpg "Smoke in de toetsencombinaties")
+
+#### Waarom behaalde ik niet de maximumcombo terwijl ik geen misses heb?
+
+![Afbeelding die een slider met slider ticks toont, bovenaan in de Edit-modus en onderaan tijdens de gameplay](/wiki/shared/Sliderticks.png "Afbeelding die een slider met slider ticks toont, bovenaan in de Edit-modus en onderaan tijdens de gameplay")
+
+**Een slider werd te vroeg losgelaten (dit wilt zeggen dat de sliderbal losgelaten werd vooraleer hij het eindpunt van de slider bereikte).**
+
+Een slider is samengesteld uit een startcirkel, uit gespreide kleinere cirkels die bekend staan als slider ticks, omgekeerde pijlen (indien gebruikt, worden ze behandeld als startcirkelpunt; ze zijn zoals een slider in omgekeerde richting), en een slidereinde. Elk van die dingen op een slider zal één toevoegen aan de combo. Merk op dat de startcirkel 30 punten waard is, de slider 10 punten waard is, de omgekeerde pijlen 30 punten waard zijn, en de slidereindes 300 (of geki), 100 (of katu), of 50 punten waard is, afhankelijk van hoe de slider werd voltooid.
+
+Slider ticks verschijnen alleen binnen het eigen sliderpad; als de slider ticks te dicht bij de begincirkels of slidereindes liggen zoals in de bovenstaande afbeelding, worden ze verborgen in de begincirkel of het slidereinde. Verborgen slider ticks tellen nog steeds mee in de combo en de score, dus moeten ze, samen met de zichtbare slider ticks, ook worden verzameld. Als de slider één of meer omgekeerde pijlen heeft, dan zullen de slider ticks weer op dezelfde plaats verschijnen om opnieuw, maar nu in omgekeerde volgorde, te worden verzameld.
+
+Als de startcirkel, één van de slider ticks of één van de omgekeerde pijlen gemist wordt, zal de combo verbroken worden (een comobreak-geluid wordt dan afgespeeld als de combo hoog genoeg is), maar dit wordt níét als miss beschouwd. Als echter het slidereinde van een slider gemist wordt zal de combo níét verbroken worden, wordt deze ook niet met één verhoogd en wordt dit ook niet als miss beschouwd. In plaats daarvan wordt een 100 (of katu voor het einde van de combo) gegeven voor de hele slider, ervan uitgaande dat tenminste de startcirkel van de slider correct geraakt werd, en alle pijlen van de slider correct uitgevoerd werden. Merk op dat de [Sudden Death](/wiki/Game_modifier/Sudden_Death) mod dus ook niet het game over-scherm zal laten verschijnen als het slidereinde van een slider gemissed werd (aangezien de combo dan niet verbroken wordt).
+
+Deze situaties die door een slider veroorzaakt worden, heten **sliderbreaks**. Een score met maximum combo kan op het resultatenscherm herkend worden aan de *Perfect*-opmerking op de prestatiegrafiek; als er geen *Perfect*-opmerking op de prestatiegrafiek staat maar er toch niet geen misses zijn, was er waarschijnlijk een sliderbreak tijdens het spelen van de beatmap.
+
+[Antwoord met testvoorbeeld in de gaming-sectie van stackexchange](https://gaming.stackexchange.com/questions/221663/i-fcd-a-song-why-is-my-combo-lower-than-people-on-the-high-scores)
+
+### osu!taiko
+
+#### Wat doet de "Gebruik de Taiko skin voor Taiko-modus"-optie in de Skin-sectie van het Optiemenu?
+
+Deze knop werkt alleen als er een `taiko`-map (niet hoofdlettergevoelig) in de `Skins`-map van de `osu!`-directory staat.
+
+Wanneer deze optie ingeschakeld is, zullen de skinelementen uit deze `taiko`-map altijd gebruikt worden tijdens het spelen van osu!taiko en worden de taiko-skinelementen van de huidige skin genegeerd. Als de `taiko`-map niet beschikbaar of uitgeschakeld is zullen de skinelementen van de huidige skin wel gebruikt worden. Als bepaalde/alle taiko-skinelementen in die skin niet beschikbaar zijn zullen de standaardelementen gebruikt worden.
+
+**Antiek weetje:** de `taiko`-map bevatte vroeger de *[Taiko by LuiginHann](https://osu.ppy.sh/community/forums/topics/41319)*-skin, die gedownload kon worden via de nu afgeschreven `osume.exe` (een osu! updater wanneer osu! moest updaten) in het Skin-tabblad. De knop controleerde niet of de `taiko`-map de specifieke elementen van *LuigiHann's skin* bevatte. Dit werd snel opgemerkt door de community en werd vanaf dat moment gebruikt als een persoonlijke globale osu!taiko skinmap.
+
+### Beatmappen
+
+#### "De beatmap die je probeert in te sturen is niet van jou!"
+
+*De info hieronder geldt enkel voor unranked beatmaps.*
+
+![Voorbeeld van de inhoud van een .osu-bestand](/wiki/shared/Beatmap_not_owned.png "Voorbeeld van de inhoud van een .osu-bestand")
+
+Volg deze stappen:
+
+1. Verlaat de editor (of sluit osu!), dit zorgt ervoor dat de veranderingen correct toegepast worden
+2. Controleer de naam van de bestandsmap van de beatmap
+   - Als deze bestandsmap met cijfers begint, verwijder ze dan. Anders zal osu! dit beschouwen als een BeatmapSetID
+3. Zorg er voor dat de `.mp3` niet begint met cijfers. Verander de bestandsnaam in de `.osu`-bestanden als de `.mp3` wel met cijfers begint.
+4. Open alle `.osu`-bestanden met een tekstbewerkingsprogramma (dit kan met *Kladblok*)
+   - Gebruik jouw gebruikersnaam als creator (en verander het ook in de bestandsnaam)
+   - Stel de BeatmapID in op 0
+   - Stel de BeatmapSetID in op -1
+
+## Credits
+
+- peppy's verouderde web FAQ (`/p/faq/`, waar deze pagina op is gebaseerd; op dit moment verwijderd)
+- Pokebis's Beginnertraining [\[1\]](https://osu.ppy.sh/community/forums/topics/5456 "Beginnertraining van Pokebis")
+- OnosakiHito's TBT Project \[Traininghandleiding Voor Taiko-Beginners v2\] [\[2\]](https://osu.ppy.sh/community/forums/topics/175867 "TBT Project \[Traininghandleiding Voor Taiko-Beginners v2\] door OnosakiHito")
+- Kingkevin30's CBT Project [\[3\]](https://osu.ppy.sh/community/forums/topics/131067 "CBT Project van Kingkevin30")
+- Entozer's osu!mania maps, gesorteerd op moeilijkheidsgraad [\[4\]](https://osu.ppy.sh/community/forums/topics/147552 "osu!mania maps, gesorteerd op moeilijkheidsgraad door Entozer")
+- Drace's \[GIDS\] Hoe verbeteren in osu!mania [\[5\]](https://osu.ppy.sh/community/forums/topics/147552 "\[GIDS\] Hoe verbeteren in osu!mania door Drace")
+- Rivenation's osu!search - Uitgebreid zoeken naar beatmaps [\[6\]](https://osu.ppy.sh/community/forums/topics/380485 "osu!search - Uitgebreid zoeken naar beatmaps door Rivenation")
+- Wikipedia [\[7\]](https://en.wikipedia.org/wiki/Osu!_Tatakae!_Ouendan), [\[8\]](https://en.wikipedia.org/wiki/Taiko_no_Tatsujin)
+
+[osu!-icoon]: /wiki/shared/mode/osu.png
+[osu!taiko-icoon]: /wiki/shared/mode/taiko.png
+[osu!catch-icoon]: /wiki/shared/mode/catch.png
+[osu!mania-icoon]: /wiki/shared/mode/mania.png

@@ -8,13 +8,13 @@
 
 ![Voorbeeld van Osu! Tatakae! Ouendan gameplay op de Nintendo DS](/wiki/shared/Ouendan.jpg)
 
-Op het scherm onderaan kan je de cirkels zien, en het verhaalverloop wordt weergegeven op het scherm bovenaan. Elk stadium is in wezen een verhaal op zichzelf over iemand in moeilijkheden. Dat is wanneer de *Ouendan* (supportersteam) ingrijpt. Met behulp van de magische krachten van hun mannelijk cheerleaden, moet je de mensen uit de problemen helpen.
+Op het scherm onderaan verschijnen de cirkels, en het verhaalverloop wordt weergegeven op het scherm bovenaan. Elk stadium is in wezen een verhaal op zichzelf over iemand in moeilijkheden. Dat is wanneer de *Ouendan* (supportersteam) ingrijpt. Met behulp van de magische krachten van hun mannelijk cheerleaden helpen ze mensen uit de problemen.
 
 ### Hoe te spelen?
 
 *Volledige uitleg: [osu!](/wiki/Game_mode/osu!)*
 
-Aangezien de meeste spelers geen touchscreen ter beschikking hebben, is dit spel gemaakt om speelbaar te zijn met een doodgewone muis, net als eenderwelk invoerapparaat dat je je maar kan indenken. De verschillende speeltechnieken kan je vinden op de [play styles](/wiki/Play_Styles)-pagina. Er zijn wel liedjes die de grenzen van de gewone muis verleggen, maar alle (gerankte en goedgekeurde) beatmaps zijn getest en de meeste van hun zijn (op een of andere manier toch) haalbaar met enkel een muis.
+Aangezien de meeste spelers geen touchscreen ter beschikking hebben, is dit spel gemaakt om speelbaar te zijn met een doodgewone muis, net als eenderwelk invoerapparaat dat je je maar kan indenken. De verschillende speeltechnieken zijn te vinden op de [play styles](/wiki/Play_Styles)-pagina. Er zijn wel liedjes die de grenzen van de gewone muis verleggen, maar alle (gerankte en goedgekeurde) beatmaps zijn getest en de meeste van hun zijn (op een of andere manier toch) haalbaar met enkel een muis.
 
 #### Basis van de gameplay
 
@@ -38,15 +38,15 @@ Dit zijn enkele van de belangrijkste vaardigheden om een *osu! ritme meester* te
 
 Een dunne ring met gelijkaardige kleur als de hitcrikel, aan de buitenkant van de hitcirkel, zal langzaamaan verkleinen. Klik de noot aan op het exacte moment dat de ring de witte rand van de hitcirkel aanraakt. Een score zal verschijnen na het aanklikken van de cirkel die de score- en healthveranderingen aangeeft, afhankelijk van de timing. De hitcirkel zal verwijnt na het tonen van de score.
 
-Om het geheim van hitcirkels te begrijpen, vertrouw je best niet enkel op het zien van de cirkels; voel het ritme van de beatmap aan. Dit helpt bij de complexe hitcirkelpatronen van latere moeilijkheidsgraden, zo worden ze minder verwarrend.
+Om het geheim van hitcirkels te begrijpen, wordt er best niet enkel op het zien van de cirkels vertrouwd; voel het ritme van de beatmap aan. Dit helpt bij de complexe hitcirkelpatronen van latere moeilijkheidsgraden, zo worden ze minder verwarrend.
 
 ##### Sliders
 
 ![Sliders](/wiki/shared/osu_slider.jpg)
 
-Ten eerste moet je hem aantikken op het juiste moment, maar daar eindigt het niet. Een sliderbal zal het traject dat je ziet beginnen volgen. Je houdt jouw muis-/toetsenbordknop ingedrukt (of je houdt de pen op jouw tablet) en je volgt de bal binnen de oranje cirkel mee op zijn weg. De oranje cirkel, die de volgcirkel noemt, zal verschijnen als je de sliderbal ingedrukt houdt, maar verdwijnt weer wanneer je hem loslaat.
+Ten eerste moet een slider aangeklikt worden op het juiste moment, maar daar eindigt het niet! Een sliderbal zal het traject beginnen volgen. Houd de muis-/toetsenbordknop ingedrukt (of houd de pen op jouw tablet) en volg de bal binnen de oranje cirkel mee op zijn weg. De oranje cirkel, die de volgcirkel noemt, zal verschijnen als de sliderbal ingedrukt gehouden wordt, maar verdwijnt weer wanneer hij losgelaten wordt.
 
-Soms kan, zoals je op het screenshot hierboven ziet, de bal van richting omkeren waarna de speler de bal terug naar de start van het traject moet volgen of vice versa. Je kan dit zijn aan de omgekeerde pijl op de eind-/begincirkel van de slider.
+Soms kan, zoals op het screenshot hierboven, de bal van richting omkeren waarna de speler de bal terug naar de start van het traject moet volgen of vice versa. Dit is wordt aangegeven door een omgekeerde pijl op de eind-/begincirkel van de slider.
 
 ##### Spinners
 
@@ -58,13 +58,13 @@ De buitenste, witte cirkel geeft aan hoeveel tijd er nog over is om de spinner t
 
 Het kleine vakje onder de spinner toont de rotaties per minuut. Het getal in dat vakje is gelijk aan het aantal rotaties er per minuut zouden gebeuren, moest er één minuut lang verdergespind worden op dezelfde snelheid. Als de muis-/toetsenbordknop losgelaten wordt (of als de pen de tablet niet meer aanraakt) voordat het einde van de spinner bereikt werd, zal de spinner vanaf dat moment geen rotaties meer lezen.
 
-Op de *DS* zijn deze dé manier om het touchscreen (of de screen protector) te bekrassen, zeker bij de hogere moeilijkheidsgraden. In osu! zijn spinners wat afgezwakt, zodat ze minder vervelend zijn om te voltooien. Het maximum aantal rotaties per minuut dat je kan halen is 477, dezelfde snelheid waarmee de "Auto" mod spint. De "Spun Out" mod spint trager, met 287 rotaties per minuut.
+Op de *DS* zijn deze dé manier om het touchscreen (of de screen protector) te bekrassen, zeker bij de hogere moeilijkheidsgraden. In osu! zijn spinners wat afgezwakt, zodat ze minder vervelend zijn om te voltooien. Het maximum aantal rotaties per minuut dat behaald kan worden is 477, dezelfde snelheid waarmee de [Auto](/wiki/Game_modifier/Auto) mod spint. De [Spun Out](/wiki/Game_modifier/Spun_Out) mod spint trager, met 287 rotaties per minuut.
 
 #### In-Game Interface
 
 ![osu! interface](/wiki/shared/osu-gameplay.jpg "In-game interface van osu!")
 
-De balk bovenaan links is de levensbalk. Deze zal met een vaste snelheid (afhankelijk van de moeilijkheidsgraad vastgelegd door de mapper(s)) dalen. Door de noten op het juiste moment te raken kan je hem echter bijvullen. Een perfect getimede hit (een 300 of Geki) zal je health meer doen stijgen dan een slecht getimede hit (50). Wanneer je mist wordt er een flinke hap uit je levensbalk genomen. 
+De balk bovenaan links is de levensbalk. Deze zal met een vaste snelheid (afhankelijk van de moeilijkheidsgraad vastgelegd door de mapper(s)) dalen. Door de noten op het juiste moment te raken wordt hij echter bijgevuld. Een perfect getimede hit (een 300 of Geki) zal de levensbalk meer doen stijgen dan een slecht getimede hit (50). Bij een miss wordt er een flinke hap uit de levensbalk genomen. 
 
 Rechts naast de levensbalk is de totale score zichtbaar. Daaronder staat de nauwkeurigheid. Het cirkeltje dat naast de nauwkeurigheid staat (en onder de score) is een timer van de looptijd van de beatmap. Het nummer linksonder is de comboteller/scorevermenigvuldiger.
 
@@ -90,7 +90,7 @@ Als de [Auto Pilot](/wiki/Game_modifier/Autopilot) spelmodificator gebruikt is, 
 
 ![Interface om van modus te veranderen](/wiki/shared/Interface_mode.png "Moduswerkbalk in Song Selection (Solo)")
 
-Klik op de `Mode`-knop om een **lijst van de spelmodi die in osu! beschikbaar zijn te openen**. Klik op de gewenste spelmodus en osu! zal veranderen naar de stijl van die spelmodus, samen met de rangschikkingen. Druk op de `Ctrl`-toets en `1` (![][osu! icon] *[osu!standard](/wiki/Game_mode/osu!))* / `2` ( ![][osu!taiko icon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch icon] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania icon] *[osu!mania](/wiki/Game_mode/osu!mania)*) op het toestenbord om snel van spelmodus te veranderen.
+Klik op de `Mode`-knop om een **lijst van de spelmodi die in osu! beschikbaar zijn te openen**. Klik op de gewenste spelmodus en osu! zal veranderen naar de stijl van die spelmodus, samen met de rangschikkingen. Druk op de `Ctrl`-toets en `1` (![][osu!-icoon] *[osu!standard](/wiki/Game_mode/osu!))* / `2` ( ![][osu!taiko-icoon] *[osu!taiko](/wiki/Game_mode/osu!taiko)*) / `3` (![][osu!catch-icoon] *[osu!catch](/wiki/Game_mode/osu!catch)*) / `4` (![][osu!mania-icoon] *[osu!mania](/wiki/Game_mode/osu!mania)*) op het toestenbord om snel van spelmodus te veranderen.
 
 ### Wat is osu!taiko?
 
@@ -117,7 +117,7 @@ Voor spelers met ervaring in *Taiko no Tatsujin*:
 
 Voor spelers zonder ervaring: het scherm in de osu!taiko-modus is verdeeld in twee verschillende delen; het bovenenste deel bevat de gameplay-elementen terwijl het onderste deel een afbeelding of video voor de beatmap bevat. Bovenaan is een levensbalk die, niet zoals bij andere spelmodi, leeg begint en gevuld moet worden tot hij minstens halfvol is om de moeilijkheidsgraad te kunnen slagen. Onder de levensbalk, iets boven het midden van het scherm is er links een taikodrum en daarnaast een bewegende transportband die hitobjecten, van rechts naar links, door een witte beoordelingscirkel voert. Boven de taikodrum is staat de geanimeerde taikomascotte die zal reageren op de behaalde beoordelingen samen met de achtergrond bovenaan die van kleur verandert op basis van die beoordelingen. Ten laatste is er zoals gewoonlijk rechtsboven de score- en nauwkeurigheidsteller en de timer. 
 
-Merk op dat health drain uitgeschakeld is in osu!taiko waardoor dus enkel de hitobjecten de levensbalk beïnvloeden. Combo zal niet verbroken worden terwijl je speelt op een leeg speelveld. Anders dan bij osu! wordt de combo elke 50 opeenvolgende hits gevierd. De basisscore zal geboost worden na het behalen van een combo die een veelvoud van 10 is, maar deze verhogen stopt bij 100 combo (dit is de limiet voor de boost). Als de combo verbroken wordt zal de boost terug resetten naar de basisscore. Tijdens *Kiai-tijd* geeft elke hit 20% meer punten dan het normale aantal. De score de je krijgt voor elke hit verschijnt rechtsboven, onder de nauwkeurigheid in het rood.
+Merk op dat health drain uitgeschakeld is in osu!taiko waardoor dus enkel de hitobjecten de levensbalk beïnvloeden. De combo zal niet verbroken worden terwijl er gespeeld wordt op een leeg speelveld. Anders dan bij osu! wordt de combo elke 50 opeenvolgende hits gevierd. De basisscore zal geboost worden na het behalen van een combo die een veelvoud van 10 is, maar deze verhogen stopt bij 100 combo (dit is de limiet voor de boost). Als de combo verbroken wordt zal de boost terug resetten naar de basisscore. Tijdens *Kiai-tijd* geeft elke hit 20% meer punten dan het normale aantal. De score voor elke hit verschijnt rechtsboven, onder de nauwkeurigheid in het rood.
 
 #### Taikonoten
 
@@ -218,7 +218,7 @@ Door het hyperfruit te vangen wordt de dash van de vanger geüpgraded naar een *
 - Druk de `leftShift`(D)-toets in en houd ingedrukt tijdens het indrukken van één van de pijltjestoetsen om de vanger in die richten te laten *dashen* tegen x2.0 de normale snelheid (aangegeven door een **heldere gloed** van de vanger).
   - Klik en houd in plaats daarvan de Linkermuisknop(D) ingedrukt op de muis om ook het dashen te activeren.
 
-De positie van de in-game cursor doet er normaal gezien niet toe tijdens het spelen van osu!catch, behalve als de "Relax" mod gebruikt is, want dan wordt de vanger bestuurd door middel van muisbewegingen. Dit maakt de score wel unranked (omdat het de enige uitdaging van osu!catch verwijderd; de vaste snelheid waarop de vanger beweegt en de controle van het vangerbord).
+De positie van de in-game cursor doet er normaal gezien niet toe tijdens het spelen van osu!catch, behalve als de [Relax](/wiki/Game_modifier/Relax) mod gebruikt is, want dan wordt de vanger bestuurd door middel van muisbewegingen. Dit maakt de score wel unranked (omdat het de enige uitdaging van osu!catch verwijderd; de vaste snelheid waarop de vanger beweegt en de controle van het vangerbord).
 
 ### Wat is osu!mania?
 
@@ -310,7 +310,7 @@ Er zijn twee indelingsstijlen, *Symmetrisch* en *Links naar Rechts*.
 
 ### Rangen
 
-#### ![][osu! icon] osu!
+#### ![][osu!-icoon] osu!
 
 | Rang | Voorwaarde |
 | :-: | :-- |
@@ -321,7 +321,7 @@ Er zijn twee indelingsstijlen, *Symmetrisch* en *Links naar Rechts*.
 | C | Meer dan 60% 300s |
 | D | Al de rest. |
 
-#### ![][osu!taiko icon] osu!taiko
+#### ![][osu!taiko-icoon] osu!taiko
 
 | Rang | Voorwaarde |
 | :-: | :-- |
@@ -330,7 +330,7 @@ Er zijn twee indelingsstijlen, *Symmetrisch* en *Links naar Rechts*.
 | A | Meer dan 90% nauwkeurigheid (80+% GREATs, of minder dan 1 GOOD voor elke 5 noten). |
 | B | Meer dan 80% nauwkeurigheid (70+% GREATs, of minder dan 1 GOOD voor elke 3.33 noten). |
 
-#### ![][osu!catch icon] osu!catch
+#### ![][osu!catch-icoon] osu!catch
 
 | Rang | Voorwaarde |
 | :-: | :-- |
@@ -341,7 +341,7 @@ Er zijn twee indelingsstijlen, *Symmetrisch* en *Links naar Rechts*.
 | C | 85.01% to 90.00% Nauwkeurigheid. |
 | D | Nauwkeurigheid van onder de 85.00%. |
 
-#### ![][osu!mania icon] osu!mania
+#### ![][osu!mania-icoon] osu!mania
 
 | Rang | Voorwaarde |
 | :-: | :-- |
@@ -381,7 +381,7 @@ Bekijk bij vragen eerst de [wikipagina over pp](/wiki/Performance_Points).
 
 #### Ik denk dat ik een bug gevonden heb! Waar kan ik dit melden?
 
-Als je een algemeen technisch probleem hebt, of als je niet zeker bent of het probleem een bug is of niet kan je een post plaatsen op het [Help forum](https://osu.ppy.sh/community/forums/5). Als je denkt dat je een specifiek, kritiek probleem gevonden hebt in osu! kan je een issue maken in de [osu-stable-issues GitHub repository](https://github.com/ppy/osu-stable-issues/issues). Kijk eerst na of niemand anders jouw probleem al gemeld heeft voordat je je post plaatst.
+Bij een algemeen technisch probleem, of als je niet zeker bent of het probleem een bug is of niet kan je een post plaatsen op het [Help forum](https://osu.ppy.sh/community/forums/5). Als je denkt dat je een specifiek, kritiek probleem gevonden hebt in osu! kan je een issue maken in de [osu-stable-issues GitHub repository](https://github.com/ppy/osu-stable-issues/issues). Kijk eerst na of niemand anders jouw probleem al gemeld heeft voordat je je post plaatst.
 
 #### Waar kan ik beatmaps vinden?
 
@@ -411,11 +411,11 @@ De beatmaplijst op de website heeft ook een functie waardoor de [ranked beatmaps
 
 **Helemaal niets**. Er is geen verschil tussen een Level 100-speler en een Level 1-speler, behalve de vaardigheid en ervaring van de speler zelf in die bepaalde spelmodus. Er zijn geen nadelen voor spelers met een laag level en geen voordelen voor spelers met een hoger level (behalve eventueel ervaring en hardware).
 
-Het level wordt gebaseerd op de totale score die behaald wordt tijdens het online spelen, ongeacht of je de beatmap slaagt of faalt. [De formule hiervoor kan hier teruggevonden worden](/wiki/Score).
+Het level wordt gebaseerd op de totale score die behaald wordt tijdens het online spelen, ongeacht het slagen of falen. [De formule hiervoor kan hier teruggevonden worden](/wiki/Score).
 
 #### Waarom verschillen de statistieken op mijn profiel van die in-game?
 
-Denk eraan dat osu! vier spelmodi heeft, dus misschien heb je de verkeerde spelmodus geselecteerd.
+Denk eraan dat osu! vier spelmodi heeft, dus misschien is de verkeerde spelmodus geselecteerd.
 
 ![Profiel_Modus_Knoppen](img/Profile_mode_buttons.gif "Knoppen voor de profielmodus")
 
@@ -451,7 +451,7 @@ Het korte antwoord op deze vraag is de hele `osu!`-map, inclusief verborgen best
 
 #### Kan ik osu! op mijn mobiel apparaat spelen?
 
-*Volledige lijst: [Spelmodi in de External Ports-sectie](/wiki/Game_mode)
+*Volledige lijst: [Spelmodi in de External Ports-sectie](/wiki/Game_mode)*
 
 osu! ondersteunt op dit moment geen mobiele platformen.
 
@@ -459,11 +459,11 @@ Er zijn echter wel een aantal onofficiële overzettingen van osu! en één offic
 
 De belangrijkste overzettingen zijn:
 
-- ![][osu! icon] opsu! \[Windows/OS X/Linux/Android\]:
+- ![][osu!-icoon] opsu! \[Windows/OS X/Linux/Android\]:
   Java-overzetting van osu!, ontwikkeld door **itdelatrisu**. **fluddokt** zorgde voor de Android-versie.
-- ![][osu!taiko icon] T-Aiko! v2 \[Android/iOS\]:
+- ![][osu!taiko-icoon] T-Aiko! v2 \[Android/iOS\]:
   osu!taiko-modus overgezet door **low.moe (Guy-kun) team** met elke dag een nieuwe reanked challenge en een verfijnde T-Aiko! rankings.
-- ![][osu! icon] osu!stream \[iOS\]:
+- ![][osu!-icoon] osu!stream \[iOS\]:
   Ervaar de nieuwe spin-off van de osu! spelmodus voor iOS, ontwikkeld door het osu! team vanaf nul.
   
 ### osu!
